@@ -1,0 +1,51 @@
+<Code>;<Translation>
+;
+cn_type_63_I_shop;ZTS63 (1964)
+cn_type_63_I_0;"<color=#c8a5b2>WZ211</color>
+ZTS1963 Amphibious Tank
+<color=#c0c0c0>1964 Nián xiūdìng</color>"
+cn_type_63_I_1;ZTS63 (1964)
+cn_type_63_I_2;Light Tank
+cn_type_62_shop;ZTQ62
+cn_type_62_0;"<color=#c8a5b2>WZ131</color>
+ZTQ1962 Light Tank"
+cn_type_62_1;ZTQ62
+cn_type_62_2;Light Tank
+;
+cn_type_58_shop;ZTZ58
+cn_type_58_0;ZTZ1958 Medium Tank
+cn_type_58_1;ZTZ58
+cn_type_58_2;Medium Tank
+cn_type_59_shop;ZTZ59
+cn_type_59_0;"<color=#c8a5b2>WZ120</color>
+ZTZ1959 Main Battle Tank"
+cn_type_59_1;ZTZ59
+cn_type_59_2;Main Battle Tank
+cn_type_69_shop;ZTZ69
+cn_type_69_0;"<color=#c8a5b2>WZ121</color>
+ZTZ1969 Main Battle Tank"
+cn_type_69_1;ZTZ69
+cn_type_69_2;Main Battle Tank
+;
+cn_wz_305_shop;PGZ80
+cn_wz_305_0;"<color=#c8a5b2>WZ305</color>
+PGZ1980 57mm Self-Propelled Anti-Aircraft Gun"
+cn_wz_305_1;PGZ80
+cn_wz_305_2;SPAA
+;
+cn_plz_83_shop;PLZ83
+cn_plz_83_0;"<color=#c8a5b2>WZ321</color>
+PLZ1983 152mm Self-Propelled Howitzer"
+cn_plz_83_1;PLZ83
+cn_plz_83_2;Self-Propelled Gun
+;
+;
+shop/group/cn_type_63_62_group;ZTS/ZTQ
+shop/group/cn_type_59_69_group;ZTZ59/69
+;
+;
+ussr_type_62_shop;▂ZTQ62
+ussr_type_62_0;"<color=#c8a5b2>WZ131</color>
+▂ZTQ1962 Light Tank"
+ussr_type_62_1;▂ZTQ62
+ussr_type_62_2;Light Tank

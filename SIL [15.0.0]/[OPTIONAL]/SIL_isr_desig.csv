@@ -1,0 +1,110 @@
+<Code>;<Translation>
+;
+md_460_sambad_shop;Sambad
+md_460_sambad_0;"<color=#7b9fb5>Avions Marcel Dassault</color>
+Super Mystère B2 Sambad"
+md_460_sambad_1;Sambad
+md_460_sambad_2;Sambad
+mirage_3cj_shop;Shahak
+mirage_3cj_0;"<color=#7b9fb5>Avions Marcel Dassault</color>
+Mirage III CJ Shahak"
+mirage_3cj_1;Shahak
+mirage_3cj_2;Shahak
+f_16a_block_10_iaf_shop;Netz
+f_16a_block_10_iaf_0;"<color=#7b9fb5>General Dynamics Corporation</color>
+F-16A-10-CF Netz"
+f_16a_block_10_iaf_1;Netz
+f_16a_block_10_iaf_2;Netz
+f_16c_block_40_barak_2_shop;Barak II (C)
+f_16c_block_40_barak_2_0;"<color=#7b9fb5>General Dynamics Corporation</color>
+F-16C-40D-CF Barak II"
+f_16c_block_40_barak_2_1;Barak II
+f_16c_block_40_barak_2_2;Barak
+s_199_shop;Sakeen
+s_199_0;"<color=#7b9fb5>Avia Motors s.r.o.</color>
+S.199 Sakeen"
+s_199_1;Sakeen
+s_199_2;Sakeen
+f-4e_iaf_shop;Kurnas
+f-4e_iaf_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+F-4E-48-MC Kurnas"
+f-4e_iaf_1;Kurnas
+f-4e_iaf_2;Kurnas
+f_15a_iaf_shop;Baz
+f_15a_iaf_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+F-15A-18-MC Baz
+<color=#c0c0c0>Multistage Improvement Program</color>"
+f_15a_iaf_1;Baz
+f_15a_iaf_2;Baz
+f_15c_baz_msip_shop;Baz Mashupar
+f_15c_baz_msip_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+F-15C-27-MC Baz Mashupar"
+f_15c_baz_msip_1;Baz Mashupar
+f_15c_baz_msip_2;Baz
+f_16d_block_40_barak_2_shop;Barak II (D)
+f_16d_block_40_barak_2_0;"<color=#7b9fb5>General Dynamics Corporation</color>
+F-16D-40D-CF Barak II"
+f_16d_block_40_barak_2_1;Barak II
+f_16d_block_40_barak_2_2;Barak
+f_16i_sufa_shop;Sufa
+f_16i_sufa_0;"<color=#7b9fb5>General Dynamics Corporation</color>
+F-16I-CF Sufa"
+f_16i_sufa_1;Sufa
+f_16i_sufa_2;Sufa
+f_15i_raam_shop;Ra’am
+f_15i_raam_0;"<color=#7b9fb5>Boeing Military Airplane Company</color>
+F-15I-MC Ra’am
+<color=#c0c0c0>(2006)</color>"
+f_15i_raam_1;Ra’am
+f_15i_raam_2;Ra’am
+f_16a_block_10_netz_mod_shop;Netz (115 Sqd.)
+f_16a_block_10_netz_mod_0;"<color=#7b9fb5>General Dynamics Corporation</color>
+F-16A-5-CF Netz
+<color=#ffe66d>115 Squadron</color>"
+f_16a_block_10_netz_mod_1;Netz
+f_16a_block_10_netz_mod_2;Netz
+;
+ah_1g_iaf_shop;Tzefa A
+ah_1g_iaf_0;"<color=#7b9fb5>Bell Helicopter Corporation</color>
+AH-1G-BF Tzefa A"
+ah_1g_iaf_1;Tzefa A
+ah_1g_iaf_2;Tzefa
+ah_1q_iaf_shop;Tzefa B
+ah_1q_iaf_0;"<color=#7b9fb5>Bell Helicopter Corporation</color>
+AH-1Q-BF Tzefa B"
+ah_1q_iaf_1;Tzefa B
+ah_1q_iaf_2;Tzefa
+ah_1f_iaf_shop;Tzefa D/E
+ah_1f_iaf_0;"<color=#7b9fb5>Bell Helicopter Corporation</color>
+AH-1F-BF Tzefa D/E"
+ah_1f_iaf_1;Tzefa D/E
+ah_1f_iaf_2;Tzefa
+ah_64a_iaf_shop;Peten
+ah_64a_iaf_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+AH-64A Peten"
+ah_64a_iaf_1;Peten
+ah_64a_iaf_2;Peten
+ah_64d_i_saraph_shop;Saraph
+ah_64d_i_saraph_0;"<color=#7b9fb5>Boeing Rotocraft Systems</color>
+AH-64D-I Saraph"
+ah_64d_i_saraph_1;Saraph
+ah_64d_i_saraph_2;Saraph
+md_500_tow_late_shop;Lahatut
+md_500_tow_late_0;"<color=#7b9fb5>MD Helicopters, Inc.</color>
+MH500/TOW Lahatut"
+md_500_tow_late_1;Lahatut
+md_500_tow_late_2;Lahatut
+ah_60_iaf_shop;Yanshuf
+ah_60_iaf_0;"<color=#7b9fb5>Sikorsky Aviation Corporation</color>
+AH-60-SI Armed Black Hawk Demonstrator Yanshuf"
+ah_60_iaf_1;Yanshuf
+ah_60_iaf_2;Yanshuf
+ah_64a_peten_iaf_shop;Peten (PV624)
+ah_64a_peten_iaf_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+AH-64A Peten
+<color=#ffe66d>PV624</color>"
+ah_64a_peten_iaf_1;Peten (PV624)
+ah_64a_peten_iaf_2;Peten
+;
+shop/group/f_4e_f_15_iaf_group;Kurnass/Baz
+shop/group/f_16d_iaf_group;Barak/Sufa

@@ -1,0 +1,233 @@
+<Code>;<Translation>;<Notes>
+;;
+<Red Dots>;;
+;;
+modification/scope_aimpoint_pro_red_dot;PRO;Red Dot
+modification/scope_aimpoint_pro_red_dot/desc;Installs the Aimpoint PRO red dot sight onto the main weapon.;
+modification/scope_trijicon_rmr_red_dot;RMR Type 2;Red Dot
+modification/scope_trijicon_rmr_red_dot/desc;Installs the Trijicon RMR Type 2 red dot sight onto the main weapon.;
+modification/scope_vzor_red_dot;Vzor-5 Red Dot;Red Dot
+modification/scope_vzor_red_dot/desc;Installs the Zenit Vzor-5 red dot sight onto the main weapon.;
+modification/scope_aimpoint_acro_p2_red_dot;ACRO P-2;Red Dot
+modification/scope_aimpoint_acro_p2_red_dot/desc;Installs the ACRO P-2 red dot sight onto the main weapon.;
+modification/scope_m68_cco;M68 CCO;Red Dot
+modification/scope_m68_cco/desc;Installs the Aimpoint M68 CCO red dot sight onto the main weapon.;
+modification/scope_1p63;PK-1;Maybe Red Dot ?
+modification/scope_1p63/desc;Installs the PK-1 Zapyev red dot sight onto the main weapon.;
+modification/scope_ekp_8_18_cobra;EKP-8-18;Red Dot
+modification/scope_ekp_8_18_cobra/desc;Installs the EKP-8-18 red dot sight onto the main weapon.;
+;;
+;;
+;;
+<Holo Sights>;;
+;;
+modification/scope_exps3;EXPS3-0;Holo Sight
+modification/scope_exps3/desc;Installs the EOTech EXPS3-0 holographic sight onto the main weapon.;
+modification/scope_1p87;Valdaj-PK120;Holo Sight
+modification/scope_1p87/desc;Installs the Valdaj-PK120 holographic sight onto the main weapon.;
+;;
+;;
+;;
+<4x Sights>;;
+;;
+modification/scope_scp_t4iecdq;SCP-T4-IECDQ;4x Sight
+modification/scope_scp_t4iecdq/desc;Installs the UTG Compact SCP-T4-IECDQ optical 4x sight onto the main weapon.;
+modification/scope_pso1_ak_4x;PSO-1;4x Sight
+modification/scope_pso1_ak_4x/desc;Installs the PSO-1 optical 4x sight onto the main weapon.;
+modification/scope_acog_ta31;ACOG TA31;4x Sight
+modification/scope_acog_ta31/desc;Installs the Trijicon ACOG TA31 optical 4x sight onto the main weapon.;
+;;
+;;
+;;
+<LPVOs>;;
+;;
+modification/scope_vortex_lpvo;Razor 1-10x24;Low-power variable optics
+modification/scope_vortex_lpvo/desc;Installs the Vortex Razor Gen III 1-10x24 low-power optic variable sight onto the main weapon.;
+modification/scope_sig_tango6_x6;Tango 6T 1-6x24;Low-power variable optics
+modification/scope_sig_tango6_x6/desc;Installs the Sig Sauer Tango 6 1-6x24 low-power variable optic onto the main weapon.;
+;;
+;;
+;;
+<Thermal Sights>;;
+;;
+modification/scope_an_pas;AN/PAS-13;Thermal Sight
+modification/scope_an_pas/desc;Installs the AN/PAS-13 thermal imaging sight onto the main weapon.;
+modification/scope_scotopia_s350f;TI-GEAR-S350F;Thermal Sight
+modification/scope_scotopia_s350f/desc;Installs the TI-GEAR-S350F thermal imaging sight onto the main weapon.;
+modification/scope_shakhin;Shakhin;Thermal Sight
+modification/scope_shakhin/desc;Installs the Cyclone Shakhin thermal imaging sight onto the main weapon.;
+;;
+;;
+;;
+<Pointers>;;
+;;
+modification/tactical_laser_us;Tactical Green Laser;Laser pointer
+modification/tactical_laser_us/desc;Installs a Tactical Green Laser sight onto the main weapon.;
+modification/tactical_laser_ussr;LTsU-OM-3L-6;Laser pointer
+modification/tactical_laser_ussr/desc;Installs the Tula LTsU-OM-3L-6 tactical laser pointer onto the main weapon.;
+;;
+modification/tactical_block_us;AN/PEQ-15;Targeting pointer
+modification/tactical_block_us/desc;Installs the AN/PEQ-15 target pointer onto the main weapon.;
+modification/tactical_block_ussr;Perst-3;Targeting pointer
+modification/tactical_block_ussr/desc;Installs the Zenit Perst-3 advanced target pointer onto the main weapon.;
+;;
+;;
+;;
+<Muzzles>;;
+;;
+modification/muzzle_223cb_compensator;223CB;Muzzle Brake
+modification/muzzle_223cb_compensator/desc;Installs the Thunder Beast Arms 223CB muzzle brake onto the main weapon.;
+modification/muzzle_m11_sd_compensator;M11 SD;Muzzle Brake
+modification/muzzle_m11_sd_compensator/desc;Installs the M11 Severe-Duty muzzle brake onto the main weapon.;
+modification/muzzle_vector_vr_13_compensator;VR-13;Muzzle Brake
+modification/muzzle_vector_vr_13_compensator/desc;Installs the Vector VR-13 muzzle brake onto the main weapon.;
+modification/muzzle_zenith_dtk_3_compensator;DTK-3;Muzzle Brake
+modification/muzzle_zenith_dtk_3_compensator/desc;Installs the Zenitco DTK-3 muzzle brake onto the main weapon.;
+;;
+modification/muzzle_socom556_suppressor;SOCOM556-RC2;Suppressor
+modification/muzzle_socom556_suppressor/desc;Installs the SOCOM556-RC2 suppressor onto the main weapon.;
+modification/muzzle_xm5_suppressor;SLX Suppressor;Suppressor
+modification/muzzle_xm5_suppressor/desc;Installs the Sig SLX Suppressor onto the main weapon.;
+modification/muzzle_m110a1_suppressor;OSS SRM6;Suppressor
+modification/muzzle_m110a1_suppressor/desc;Installs the OSS SRM6 suppressor onto the main weapon.;
+modification/muzzle_gls_mac_supressor;MAC 9;Suppressor
+modification/muzzle_gls_mac_supressor/desc;Installs the GSL MAC 9 suppressor onto the main weapon.;
+modification/muzzle_hexagon_suppressor;SKS Hexagon;Suppressor
+modification/muzzle_hexagon_suppressor/desc;Installs the SKS Hexagon suppressor onto the main weapon.;
+modification/muzzle_rotor43_svdm_suppressor;ROTOR43;Suppressor
+modification/muzzle_rotor43_svdm_suppressor/desc;Installs the ROTOR43 suppressor onto the main weapon.;
+modification/muzzle_pp_19_suppressor;PBS 9x19;Suppressor
+modification/muzzle_pp_19_suppressor/desc;Installs the PBS 9x19 suppressor onto the main weapon.;
+;;
+;;
+;;
+<Grips>;;
+;;
+modification/grip_vertical_tangodown;Vertical Fore Grip;Vertical Grip
+modification/grip_vertical_tangodown/desc;Installs the TangoDown Vertical Fore Grip onto the main weapon.;
+modification/grip_vertical_utg_5_position;UTG 5 Position;Vertical Grip
+modification/grip_vertical_utg_5_position/desc;Installs the UTG Ambidextrous 5-position Foldable Vertical Foregrip onto the main weapon.;
+modification/grip_vertical_rk2;RK-2;Vertical Grip
+modification/grip_vertical_rk2/desc;Installs the RK-2 vertical grip onto the main weapon.;
+modification/grip_vertical_utg_qd;QD;Vertical Grip
+modification/grip_vertical_utg_qd/desc;Installs the UTG QD vertical grip onto the main weapon.;
+modification/grip_vertical_molot;VPO-801.02.00;Vertical Grip
+modification/grip_vertical_molot/desc;Installs the VPO-801.02.00 vertical grip onto the main weapon.;
+;;
+modification/grip_angled_magpul;AFG2;Angled Grip
+modification/grip_angled_magpul/desc;Installs the Magpul AFG2 angled grip onto the main weapon.;
+;;
+;;
+;;
+<Grenade Launchers>;;
+;;
+modification/grenade_launcher_m320;M320 GLM;Grenade Launcher
+modification/grenade_launcher_m320/desc;Installs the Grenade Launcher, 40mm, M320 onto the main weapon.;
+modification/grenade_launcher_gp_34;GP-34;Grenade Launcher
+modification/grenade_launcher_gp_34/desc;Installs the GP-34 grenade launcher onto the main weapon.;
+;;
+;;
+;;
+<Belts>;;
+;;
+modification/5_56mm_tracer_ammo_belt;Tracers;
+modification/5_56mm_tracer_ammo_belt/desc;Loads magazines with additional tracer cartridges.;
+modification/5_56mm_ap_ammo_belt;Armor-piercing;
+modification/5_56mm_ap_ammo_belt/desc;Loads magazines with additional armor-piercing cartridges.;
+;;
+;;
+;;
+<Mags>;;
+;;
+modification/magazine_magpul_pmag_30_round;30-rnd Magazine;
+modification/magazine_magpul_pmag_30_round/desc;Installs a light plastic magazine with 30-round capacity on the main weapon.;
+modification/magazine_magpul_pmag_40_round;40-rnd Magazine;
+modification/magazine_magpul_pmag_40_round/desc;Installs a light plastic magazine with 40-round capacity on the main weapon.;
+modification/magazine_magpul_pmag_60_round;60-rnd Magazine;
+modification/magazine_magpul_pmag_60_round/desc;Installs a light plastic magazine with 60-round capacity on the main weapon.;
+;;
+;;
+;;
+<Additional Weapons>;;
+;;
+modification/sidearms_pistol_beretta_m9;M9;
+modification/sidearms_pistol_beretta_m9/desc;Adds an M9 sidearm to your soldiers equipment.;
+modification/sidearms_pistol_mp_443;MP-443;
+modification/sidearms_pistol_mp_443/desc;Adds an MP-443 sidearm to your soldiers equipment.;
+;;
+modification/machinegun_m240;M240B;
+modification/machinegun_m240/desc;Allows you to arm one of the soldiers in your squad with an M240B machine gun.;
+modification/machinegun_reapr;REAPR;
+modification/machinegun_reapr/desc;Allows you to arm one of the soldiers in your squad with a REAPR machine gun.;
+modification/machinegun_pkp_pecheneg;PKP Pecheneg;
+modification/machinegun_pkp_pecheneg/desc;Allows you to arm one of the soldiers in your squad with a PKP Pecheneg machine gun.;
+;;
+modification/shotgun_mossberg_590;Mossberg 590;
+modification/shotgun_mossberg_590/desc;Allows you to arm one of the soldiers in your squad with a Mossberg 590 shotgun.;
+modification/shotgun_ks_p;SSK-18,5 KS-P;
+modification/shotgun_ks_p/desc;Allows you to arm one of the soldiers in your squad with an SSK-18,5 KS-P shotgun.;
+;;
+modification/at_laucher_rpg_7;RPG-7;
+modification/at_laucher_rpg_7/desc;Allows you to arm one of the soldiers in your squad with an RPG-7 anti-tank grenade launcher.;
+modification/at_laucher_at_4;AT-4;
+modification/at_laucher_at_4/desc;Allows you to arm one of the soldiers in your squad with an AT-4 anti-tank grenade launcher.;
+;;
+modification/mpads_igla;9K38;
+modification/mpads_igla/desc;Allows you to arm one of the soldiers in your squad with a 9K38 MANPADS.;
+modification/mpads_stinger;FIM-92A;
+modification/mpads_stinger/desc;Allows you to arm one of the soldiers in your squad with an FIM-92A MANPADS.;
+;;
+;;
+;;
+<Grenades>;;
+;;
+modification/stun_grenade;Stun grenade;
+modification/stun_grenade/desc;Allows you to equip soldiers in your squad with stun grenades.;
+;;
+modification/smoke_grenade;Smoke grenade;
+modification/smoke_grenade/desc;Allows you to equip soldiers in your squad with smoke grenades.;
+;;
+modification/explosive_charge;Explosive charge;
+modification/explosive_charge/desc;Allows you to equip soldiers in your squad with remote detonation charges.;
+;;
+;;
+;;
+;;
+modification/strike_drone;Loitering munition;
+modification/strike_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a kamikaze drone.;
+modification/fpv_drone;FPV drone;
+modification/fpv_drone/desc;Allows you to additionally arm one of the soldiers in your squad with a FPV drone.;
+;;
+;;
+;;
+<Armors>;;
+;;
+modification/bulletproof_vest_empty;No armor;
+modification/bulletproof_vest_default;Default armor;
+modification/bulletproof_vest_light;Light armor;
+modification/bulletproof_vest_medium;Medium armor;
+modification/bulletproof_vest_heavy;Heavy armor;
+modification/bulletproof_vest_light_ghillie;Ghillie suit;
+;;
+modification/bulletproof_vest_default/desc;;
+;;
+;;
+;;
+<Misc>;;
+;;
+modification/category/equipment_grenade;Grenades;
+modification/category/equipment_special;Special;
+modification/category/equipment_common;Equipment;
+;;
+modification/item__weight;{value} to weight;
+modification/gun__adsSpeedMult;{value} to aiming speed;
+modification/gun__recoilAmount;{value} to recoil impulse;
+modification/gun__recoilDirAmount;{value} to recoil predictability;
+modification/gun__recoilControlMult;{value} to recoil control;
+modification/weap__sprintLerpFactor;{value} to speed up running;
+;;
+modification/human_medkit;Extra medkit;
+modification/human_medkit/desc;Increases the number of individual first aid kits for each soldier in the squad.;
+;;
+modification/tactical_flashlight;Flashlight;Flashlight
+modification/tactical_flashlight/desc;Installs a tactical flashlight onto the main weapon.;

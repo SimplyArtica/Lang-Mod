@@ -1,0 +1,1871 @@
+<code>;<translation>
+;
+<ERAs>;
+;
+armor_class/ERA_tank;ERA 
+armor_class/ex_era_turret;ERA 
+armor_class/ex_era_hull;ERA 
+;
+armor_class/ERA_ARAT;ARAT ERA 
+armor_class/ERA_ARAT_2;ARAT 2 ERA 
+armor_class/uk_era_m_60;ERA 
+;
+armor_class/ERA_K_I;Kontakt-1 ERA 
+armor_class/ERA_K_V;Kontakt-5 ERA 
+armor_class/ERA_Relict;Relikt ERA 
+armor_class/ERA_DYNAS;DYNAS ERA 
+armor_class/ERA_Duplet;Duplet ERA 
+armor_class/ERA_Nizh;Nizh ERA 
+;
+armor_class/uk_era_romor_a;ROMOR-A ERA 
+;
+armor_class/cn_era_type_59d_turret;ERA 
+armor_class/cn_era_type_59d_hull;ERA 
+armor_class/ERA_FY_1D1;FY1D1 ERA 
+armor_class/ERA_FY_2;FY2 ERA 
+armor_class/ERA_FY_4;FY4 ERA 
+armor_class/ERA_FY_5;FY5 ERA 
+;
+armor_class/ERA_AZUR;AZUR ERA 
+;
+armor_class/ERA_Blazer;Blazer ERA 
+;
+;
+;
+<>;
+;
+armor_class/hydraulic_pump;Hydraulic pump
+armor_class/power_electronics;Power electronics
+armor_class/no_armoring/common;There is no armor protection on this vehicle.
+armor_class/thickness;Thickness
+armor_class/effective_thickness;Effective thickness
+armor_class/impact_angle;Impact angle
+armor_class/normal_angle;Constructional armor slope angle
+armor_class/driver;Driver
+armor_class/machine_gunner;Machine gunner
+armor_class/loader;Loader
+armor_class/commander;Commander
+armor_class/gunner;Gunner
+armor_class/gunner_aircraft;Gunner
+armor_class/gunner_tank;Gunner
+armor_class/optic;Optics
+armor_class/optic_gun;Gunner optics
+armor_class/commander_panoramic_sight;Commander optics
+armor_class/drive_turret_h;Horizontal aiming drive
+armor_class/drive_turret_v;Vertical aiming drive
+armor_class/cannon_breech;Cannon breech
+armor_class/fuel_tank;Fuel tank
+armor_class/fuel_tank_exterior;Exterior fuel tank
+armor_class/ammo;Ammo
+armor_class/ammo_charges;Charges
+armor_class/radiator;Radiator
+armor_class/radio_station;Radio station
+armor_class/engine;Engine
+armor_class/transmission;Transmission
+armor_class/fire_control_system;FCS
+armor_class/desc/fire_control_system;"Provides for the operation of the module:
+{partsList}"
+armor_class/power_system;Power system
+armor_class/desc/power_system;"The battery pack, as well as the power supply systems
+of powerful consumers. Damage to this unit may cause a fire.
+If it fails, systems requiring power supply cannot be used.
+{partsList}"
+armor_class/driver_controls;Driver controls
+armor_class/desc/driver_controls;"Controls and indicators of the battle vehicle movement control,
+in case of failure block the possibility of movement until field repair."
+armor_class/autoloader;Autoloader
+armor_class/desc/autoloader;"Used for mechanized loading of weapons. In the event of failure,
+loading of the next projectile will not be available until field repair is carried out."
+armor_class/electronic_equipment;Electronic equipment
+armor_class/desc/electronic_equipment;"A set of radio electronic equipment.
+If a failure occurs, the operation of the electronic equipment is blocked.
+{partsList}"
+armor_class/gun_stabilizer;Gun Stabilizer
+armor_class/guided_weapon_controls;Guided weapon controls
+armor_class/armored_glass;Armored glass
+armor_class/wood;Wood
+armor_class/spaced_armor_air;Air
+armor_class/grille_air;Slat armor
+armor_class/spall_liner;Spall liner
+armor_class/CHA_tank;Cast homogeneous armor
+armor_class/RHA_tank;Rolled homogeneous armor
+armor_class/CHA_tank_modern;Cast homogeneous armor
+armor_class/RHA_tank_modern;Rolled homogeneous armor
+armor_class/RHA_tiger_II;Rolled homogeneous armor
+armor_class/RHA_is_3;Rolled homogeneous armor
+armor_class/RHAHH_tank;High hardness rolled armor
+armor_class/fireproof_composite;Fireproof container
+armor_class/aluminum_armor_AMS_4050A;Aluminium alloy AMS 4050A
+armor_class/aluminum_armor_7039;Aluminium alloy 7039
+armor_class/aluminum_armor_7020;Aluminium alloy 7020
+armor_class/aluminum_armor_5083;Aluminium alloy 5083
+armor_class/aluminum_armor_AA_7017;Aluminium alloy AA7017
+armor_class/RHAHH_tank_modern;High hardness rolled armor
+armor_class/t_80b_composite_armor;Quartz core
+armor_class/t_80u_turret_composite_armor;Cellular armor
+armor_class/mexas_2;MEXAS 2
+armor_class/mexas_2c;MEXAS 2C
+armor_class/t_72b_turrert_composite_armor;Combined armor with reflective plates
+armor_class/ABT-101;Alloy ABT-101
+armor_class/abt_102;Alloy ABT-102
+armor_class/aluminum_alloy_armor;Aluminium alloy
+armor_class/titanium_alloy_vt6;Alloy BT-6
+armor_class/titanium_alloy_tank;Titanium Alloy
+armor_class/armor_tank_engine;Engine or transmission
+armor_class/armor_engine;Engine
+armor_class/gun_barrel;Primary or secondary weapon
+armor_class/antenna_target_location;Search radar antenna
+armor_class/antenna_target_tagging;Tracking radar director
+armor_class/antenna_target_tagging_mount;Tracking radar director
+armor_class/countermeasure;Electro-optical active protection system
+armor_class/aps_sensor;Active protection system
+armor_class/aps_launcher;Active protection system
+armor_class/ex_aps_launcher;Active protection system
+armor_class/fire_control_room;Fire control room
+armor_class/rangefinder;Rangefinder
+armor_class/fire_director;Fire director
+armor_class/fire_director_mount;Fire director
+armor_class/weapon/primary;Primary weapon
+armor_class/weapon/secondary;Secondary weapon
+armor_class/weapon/machinegun;Machine Gun
+armor_class/tank_structural_steel;Structural steel
+armor_class/grille_structural_steel;Structural steel
+armor_class/aluminium;Aluminium
+armor_class/tanks_fuel_tank;Structural steel
+armor_class/ship_structural_steel;Structural steel
+armor_class/ship_STS;Antifragmentation armor
+armor_class/ship_Wsh;Hardened armor
+armor_class/ship_RHA;Rolled homogeneous armor
+armor_class/ship_RGA;Rolled cemented armor
+armor_class/ships_oil_fuel_tank;Structural steel
+armor_class/ships_coal_bunker;Coal bunker
+armor_class/steel/short;Steel
+armor_class/steel_tankman;Crew member
+armor_class/tank_traks;Traсks
+armor_class/optics_tank;Optics
+armor_class/car_wheels;Chassis
+armor_class/tank_barrel;Gun steel
+armor_class/ship_wood;Wood
+armor_class/concrete;Concrete
+armor_class/composite_armor_hull;Composite armor
+armor_class/composite_armor_turret;Composite armor
+armor_class/spaced_armor;Spaced armor
+armor_class/stillbrew;Stillbrew additional armor
+armor_class/stillbrew_turret_front;Stillbrew additional armor + turret's front armor
+armor_class/tank_textolite;Textolite
+armor_class/tank_ultra_porcelain;Ultra porcelain
+armor_class/rubber_tank;Rubber
+armor_class/nbc_liner_tank;Armor radiation material
+armor_class/shaft;Propeller shaft
+armor_class/gun_trunnion;Trunnions
+armor_class/desc/gun_trunnion;Gun trunnions. In case of failure, they b lock the possibility of aiming the gun in the vertical plane until field repair.
+armor_class/turret_hydraulics;Hydraulic pump
+armor_class/desc/turret_hydraulics;Hydraulic pumps and power electronics. In case of failure, they block the possibility of gun aiming until field repair.
+armor_class/graphite8;Graphite
+armor_class/graphite_sandwitch12;Graphite sandwich
+armor_class/kevlar_sandwitch10;Kevlar sandwich
+armor_class/kevlar_graphite_sandwitch10;Kevlar-Graphite sandwich
+armor_class/fibreglass5;Fibreglass
+armor_class/t64a_hull_frontal_armor_array;100 mm steel — 106 mm textolite — 20 mm steel
+armor_class/t64a_turret_frontal_armor_array;steel — high hardness steel — steel
+armor_class/cockpit_countrol;Countrol panel
+armor_class/desc/cockpit_countrol;Used to control information MFD/HUD and electro-optical weapons systems:
+armor_class/electronic_block;Avionics block
+armor_class/desc/electronic_block;Avionics block control block:
+armor_class/optic_block;Electro-optical station
+armor_class/desc/optic_block;
+armor_class/ircm;IRCM
+armor_class/desc/ircm;
+armor_class/tank_steel_wheels;Structural steel of chassis
+armor_class/water;Liquid cooling system
+armor_class/oil;Oil cooling system
+armor_class/spar;Spar
+armor_class/armor;Armor
+armor_class/mgun;Offensive armament
+armor_class/mg;Machine gun
+armor_class/gun;Defensive armament
+armor_class/cannon;Offensive armament
+armor_class/turret;Flexible turret
+armor_class/tank;Fuel tank
+armor_class/fuse;Fuselage
+armor_class/tail;Tail
+armor_class/propeller_shaft;Propeller shaft
+armor_class/radar;Radar
+armor_class/wingcontrol;Traction of control surfaces
+armor_class/tailcontrol;Traction of control surfaces
+armor_class/gear;Gears
+armor_class/pilot;Pilot
+armor_class/glass4_5;Bulletproof glass 4.5 mm
+armor_class/glass8;Bulletproof glass 8 mm
+armor_class/glass12;Bulletproof glass 12 mm
+armor_class/glass22;Bulletproof glass 22 mm
+armor_class/glass25;Bulletproof glass 25 mm
+armor_class/glass30;Bulletproof glass 30 mm
+armor_class/glass32;Bulletproof glass 32 mm
+armor_class/glass38;Bulletproof glass 38 mm
+armor_class/glass40;Bulletproof glass 40 mm
+armor_class/glass42_8;Bulletproof glass 42.8 mm
+armor_class/glass44;Bulletproof glass 44 mm
+armor_class/glass44_45;Bulletproof glass 44.45 mm
+armor_class/glass45;Bulletproof glass 45 mm
+armor_class/glass50;Bulletproof glass 50 mm
+armor_class/glass55;Bulletproof glass 55 mm
+armor_class/glass57;Bulletproof glass 57 mm
+armor_class/glass58;Bulletproof glass 58 mm
+armor_class/glass60;Bulletproof glass 60 mm
+armor_class/glass62_5;Bulletproof glass 62.5 mm
+armor_class/glass63_5;Bulletproof glass 63.5 mm
+armor_class/glass64;Bulletproof glass 64 mm
+armor_class/glass66;Bulletproof glass 66 mm
+armor_class/glass65;Bulletproof glass 65 mm
+armor_class/glass68;Bulletproof glass 68 mm
+armor_class/glass70;Bulletproof glass 70 mm
+armor_class/glass75;Bulletproof glass 75 mm
+armor_class/glass90;Bulletproof glass 90 mm
+armor_class/glass105;Bulletproof glass 105 mm
+armor_class/glass106;Bulletproof glass 106 mm
+armor_class/glass102;Bulletproof glass 102 mm
+armor_class/glass155;Bulletproof glass 155 mm
+armor_class/new_armor_glass22;Bulletproof glass 22 mm
+armor_class/new_armor_glass42;Bulletproof glass 42 mm
+armor_class/new_armor_glass44;Bulletproof glass 44 mm
+armor_class/plexiglas40;Plexiglas 40 mm
+armor_class/dural;Dural 1 mm
+armor_class/dural5;Dural 5 mm
+armor_class/dural6_35;Dural 6.35 mm
+armor_class/dural9_5;Dural 9.5 mm
+armor_class/dural15_8;Dural 15.8 mm
+armor_class/armor_fireplate;Firewall
+armor_class/steel;Steel 1 mm
+armor_class/armor2;Steel 2 mm
+armor_class/armor2_54;Steel 2.54 mm
+armor_class/armor3;Steel 3 mm
+armor_class/armor4;Steel 4 mm
+armor_class/armor4_5;Steel 4.5 mm
+armor_class/armor4_7;Steel 4.7 mm
+armor_class/armor5;Steel 5 mm
+armor_class/armor5_5;Steel 5.5 mm
+armor_class/armor6;Steel 6 mm
+armor_class/armor6_35;Steel 6.35 mm
+armor_class/armor6_5;Steel 6.5 mm
+armor_class/armor7;Steel 7 mm
+armor_class/armor7_9;Steel 7.9 mm
+armor_class/armor8;Steel 8 mm
+armor_class/armor8_5;Steel 8.5 mm
+armor_class/armor9;Steel 9 mm
+armor_class/armor9_5;Steel 9.5 mm
+armor_class/armor10;Steel 10 mm
+armor_class/armor10_5;Steel 10.5 mm
+armor_class/armor11;Steel 11 mm
+armor_class/armor11_11;Steel 11.11 mm
+armor_class/armor12;Steel 12 mm
+armor_class/armor12_5;Steel 12.5 mm
+armor_class/armor12_7;Steel 12.7 mm
+armor_class/armor13;Steel 13 mm
+armor_class/armor13_5;Steel 13.5 mm
+armor_class/armor14;Steel 14 mm
+armor_class/armor15;Steel 15 mm
+armor_class/armor15_8;Steel 15.8 mm
+armor_class/armor15_87;Steel 15.87 mm
+armor_class/armor16;Steel 16 mm
+armor_class/armor16_5;Steel 16.5 mm
+armor_class/armor16_9;Steel 16.9 mm
+armor_class/armor18;Steel 18 mm
+armor_class/armor19_05;Steel 19.05 mm
+armor_class/armor20;Steel 20 mm
+armor_class/armor21;Steel 21 mm
+armor_class/armor22_23;Steel 22.23 mm
+armor_class/armor25;Steel 25 mm
+armor_class/armor25_4;Steel 25.4 mm
+armor_class/armor25_5;Steel 25.5 mm
+armor_class/armor27;Steel 27 mm
+armor_class/armor30;Steel 30 mm
+armor_class/armor32;Steel 32 mm
+armor_class/armor38;Steel 38 mm
+armor_class/armor40;Steel 40 mm
+armor_class/armor45;Steel 45 mm
+armor_class/armor50;Steel 50 mm
+armor_class/armor55;Steel 55 mm
+armor_class/armor60;Steel 60 mm
+armor_class/armor64;Steel 64 mm
+armor_class/armor65;Steel 65 mm
+armor_class/armor66;Steel 66 mm
+armor_class/armor70;Steel 70 mm
+armor_class/armor75;Steel 75 mm
+armor_class/armor80;Steel 80 mm
+armor_class/armor99;Steel 99 mm
+armor_class/armor250;Steel 250 mm
+armor_class/alum_alloy6_35;Aluminium Alloy 6.35 mm
+armor_class/alum_alloy8;Aluminium Alloy 8 mm
+armor_class/alum_alloy10;Aluminium Alloy 10 mm
+armor_class/alum_alloy16;Aluminium Alloy 15.875 mm
+armor_class/alum_alloy18;Aluminium Alloy 18 mm
+armor_class/alum_alloy20;Aluminium Alloy 20 mm
+armor_class/alum_alloy36;Aluminium Alloy 36 mm
+armor_class/boron_carbide8;Composite - kevlar boron carbide
+armor_class/boron_carbide20;Composite - kevlar boron carbide
+armor_class/amar_air20;Composite - AMAP-AIR
+armor_class/composite16;Composite - alum ceramic
+armor_class/composite26;Composite - alum ceramic
+armor_class/ceramic16;Ceramic
+armor_class/titan10;Titanium Alloy 10 mm
+armor_class/titan17;Titanium Alloy 17 mm
+armor_class/titan24;Titanium Alloy 24 mm
+armor_class/titan38;Titanium Alloy
+armor_class/kevlar5;Kevlar
+armor_class/tt;Torpedo tube
+armor_class/glass_fibre;Fibre-glass
+armor_class/armour_aramide_fabric;Spall liner
+armor_class/t_90_hull_composite_armour;Composite hull armor
+armor_class/t_90_turret_composite_armour;Composite turret armor
+armor_class/leopard_2a5_hull_composite_armour;Composite hull armor
+armor_class/leopard_2a5_turret_composite_armour;Composite turret armor
+armor_class/t_62m_composite_armor;Metal-polymer block
+armor_class/leopard_2a5_side_skirts_composite_armour;Composite armor
+armor_class/leopard_2a5_turret_nera;External сomposite armor with NERA elements
+armor_class/hull_side_special_armor;Composite screen
+armor_class/t_90_rubber_fabric_screens;Rubber-fabric screens
+armor_class/roof_pro_additional_armor;roofPRO composite armor
+armor_class/side_pro_additional_armor;sidePRO composite armor
+armor_class/variable_thickness_armor;Variable thickness armor
+armor_class/armor_dimensions_at_point;Armor dimensions at point
+armor_class/aircraft;Hydroplane
+armor_class/catapult;Catapult
+armor_class/catapult_mount;Catapult mount
+armor_class/air_tank;Pressurised air tanks
+armor_class/ballast_tank;Ballast tank
+armor_class/battery;Battery
+armor_class/periscope;Periscope
+armor_class/apu;Auxiliary Power Unit
+armor_class/glass38_1;Bulletproof glass 38.1 mm
+armor_class/steel7_94;Steel 7.94 mm
+;
+;
+;
+<X-Ray>;
+;
+xray/armor_composition;Composition
+xray/ammo/first_stage;First-stage ammo stowage
+xray/ammo/first_stage_ship;Ready-use ammo
+xray/ammo/auto_load;Automatic loading
+xray/ammo/mechanized_ammo_rack;Mechanized Ammo Rack
+xray/transmission/maxSpeed/forward;Max speed, forward
+xray/transmission/maxSpeed/backward;Max speed, backward
+xray/transmission/gears;Gears
+xray/fire_control/weapons;Gives fire solution for:
+xray/fire_control/accuracy;Measure accuracy:
+xray/fire_control/lock_time;Fire solution calculation time:
+xray/fire_control/calc_time;Fire solution update time:
+xray/fire_control/devices;Fire solution calculations from:
+xray/fire_control/num_rangefinders;{n} {n=rangefinder/rangefinders}
+xray/fire_control/num_fire_directors;{n} {n=fire director/fire directors}
+xray/model;Model
+xray/ircm_protected_sector/hor;Protected sector horizontally
+xray/ircm_protected_sector/vert;Protected sector vertically
+xray/aps/protected_sector/hor;Protected sector horizontally
+xray/aps/protected_sector/vert;Protected sector vertically
+xray/aps/reactionTime;Reaction time
+xray/aps/reloadTime;Time of readiness to re-repel threat
+xray/aps/targetSpeed;Threat velocity
+xray/aps/shotCount;Count countermeasures
+xray/firing;Firing
+xray_ext_hint/title;Extended description
+xray_ext_hint/ammo_turret;"This ammo is used first. The reload speed of guns is shorter with ready-use shells than with shells from shell storage.
+
+When destroyed, this ammo can detonate and cause damage to nearby modules.
+
+When ready-use ammo is being refilled, this icon is displayed:"
+xray_ext_hint/pump;"Pumps are responsible for draining water from compartments.
+The fewer working pumps there are on a naval vessel, the slower the drainage."
+xray_ext_hint/bridge;"The bridge controls the ship's movement. In some cases the bridge provides fire control functions.
+
+When the bridge is destroyed, the ship is unable to change speed or direction for some time.
+
+You can check the status of the bridge using this icon:"
+xray_ext_hint/radio_station;"Transmits info about sighted enemies to your allies.
+
+A destroyed radio station shortens the maximum distance of transmissions."
+xray_ext_hint/fire_control_room;"A part of the fire control system.
+Computes data from the fire directors and rangefinders about enemy vessel speed, distance and direction. Calculates the lead point for surface targets.
+
+A destroyed fire control director leaves the vessel unable to calculate the target lead angle for firing at surface targets."
+xray_ext_hint/aircraft;Can be launched during the battle to attack the enemy with its weapons, make a smoke screen or capture the point.
+xray_ext_hint/aircraft/shortcut;You can switch between controlling a ship and the launched hydroplane by pressing {{ID_START_SUPPORT_PLANE_SHIP}}
+xray_ext_hint/engine_room;"Provides ship's ability to move.
+Damaging or destroying several boiler rooms (engines) causes reduce of ship's maximum speed.
+
+Destroying all boiler rooms (engines) makes the ship unable to move. And can cause fire.
+
+You can control engine status with this icon:"
+xray_ext_hint/transmission;"Provides the ship the ability to move.
+Damaging or destroying several transmissions causes the ship's maximum speed to decrease.
+
+Destroying all transmissions makes the ship unable to move.
+
+You can check their status using this icon:"
+xray_ext_hint/funnel;"Provides draft for boilers.
+
+Damaging the funnel causes the ship's maximum speed to decrease.
+
+By keeping an eye on the enemy funnels you can deduce thrust and also movement direction."
+xray_ext_hint/steering_gear;"Provides the ship's ability to turn.
+
+When destroyed, the ship turns very slowly, using only her propellers, which increases turning time and radius dramatically.
+
+You can check steering gear damage using this icon:"
+xray_ext_hint/fuel_tank;"Contains liquid fuel.
+Can provide extra protection from fragments and blast waves."
+xray_ext_hint/coal_bunker;"Contains coal for ship boilers.
+Can provide extra protection from some shells, fragments and blast waves.
+
+When destroyed, the coal bunker stops blocking shells and fragments."
+xray_ext_hint/mine;"Needs to be set in the path of an enemy vessel.
+
+Can detonate on its rack from a direct hit or nearby fire."
+xray_ext_hint/depth_charge;"Needs to be dropped or shot overboard.
+
+Can detonate on its rack or inside a projector from a direct hit or nearby fire."
+xray_ext_hint/torpedo;"Spare torpedo for reloading torpedo tubes during the battle.
+Can detonate from a direct hit or nearby fire.
+
+If you select the ""Without load"" option in the Secondary weapons in the Modification window or in the combat briefing window, there will be no torpedoes loaded into the torpedo tubes.
+This will eliminate the risk of torpedoes detonating, but will also leave you unable to use torpedoes in the battle."
+xray_ext_hint/elevator;"Used to deliver shells and charges from their storage to the guns.
+Destroying the ammo elevator slows this process.
+
+Fire in the turret can spread down the elevator chute to the ammo storage."
+xray_ext_hint/tt;"Used to launch torpedoes.
+A loaded torpedo can detonate in the case of direct hit or nearby fire."
+xray_ext_hint/antenna_target_location;"Surveillance radar antenna.
+Allows survey for the air and locates aerial vehicles.
+
+When all of these antennas are destroyed, the ship loses this ability until they are repaired."
+xray_ext_hint/ammunition_storage;"The most important module in the ship’s damage model.
+Each ammo storage feeds a specific gun or several guns.
+
+A direct hit to the storage can cause an instant detonation which can destroy the entire ship or at least seriously damage it.
+
+Fire poses a great danger for the ammo storage. For example, fire can spread from the turret downwards via the ammo elevator shaft into the storage.
+
+Lower the fire risk by researching the ""Ammo wetting"" modification if it’s available."
+xray_ext_hint/antenna_target_tagging;"Tracking radar antenna.
+Allows the capture and tracking of an aerial target that was located by the surveillance radar.
+Calculates the lead point for captured targets.
+
+When all antennas are destroyed, the ship loses the ability to capture and track aerial targets until they are repaired."
+xray_ext_hint/antenna_target_tagging/shortcut;To lock on a target and receive a lead point, when in binocular mode, point at a target and press {{ID_SENSOR_TARGET_LOCK_SHIP}}.
+xray_ext_hint/fire_director;"Part of the fire control system.
+Allows computation in the lead point for shooting surface targets. Transmits data about an enemy vessel's speed and distance to the fire control room.
+
+A ship can carry several fire directors and rangefinders. All these devices are included in the fire control system.
+
+When all fire directors are destroyed, the ship loses the ability to calculate the lead point until they are repaired.
+
+If the fire control room is destroyed, the ship also loses the ability to calculate the lead point, even if all directors are intact."
+xray_ext_hint/rangefinder;"Part of the fire control system.
+Allows computation of the lead point for shooting surface targets. Transmits data about an enemy vessel's distance to the fire control room or the battle bridge.
+
+The ship can carry several rangefinders. All of them are included in the fire control system.
+
+When all rangefinders (and fire directors, if they are set) are destroyed, the ship loses the ability to calculate the lead point until these parts are repaired.
+
+If the fire control room (or the battle bridge) is destroyed, the ship also loses the ability to calculate the lead point, even if all the directors are intact."
+xray_ext_hint/catapult;"Allows launching of the ship's hydroplane scout.
+The ship loses this abilty if the catapult is destroyed."
+xray_ext_hint/turret;"A destroyed turret cannot be directed and cannot fire.
+
+There is a chance of fire when a turret is destroyed.
+If the turret has its own elevator that connects it with the ammunition storage, the fire can spread downwards via the elevator chute and cause ammo detonation.
+
+Each turret feeds from a specific ammo storage."
+xray_ext_hint/shaft;"Provides the ship the ability to move.
+Damaging or destroying several shafts causes the ship's maximum speed to decrease.
+
+Destroying all shafts makes the ship unable to move.
+
+You can check shaft damage status by using this icon:"
+xray/indicators;MFD/ILS
+xray/weaponControls;Weapon countrol
+xray/optics;Targeting optic
+xray/guidance;Guidance weapon countrol
+xray/radar;Radar
+xray/counterMeasures;IRCM
+xray/rwr;RWR
+xray/nightVision;NVD
+xray/controls;Flying countrol
+xray/sensors;Sensors
+;
+;
+;
+<Engines>;
+;
+plane_engine_type;Type
+plane_engine_type/inline;Inline
+plane_engine_type/radial;Radial
+plane_engine_type/jet;Jet
+plane_engine_type/rocket;Rocket
+plane_engine_type/pvrd;Ramjet
+plane_engine_type/turboprop;Turboprop
+plane_engine_type/turboshaft;Turboshaft
+plane_engine_type/unknown;Unknown
+plane_engine_cooling_type;Cooling type
+plane_engine_cooling_type_air;Air
+plane_engine_cooling_type_water;Water
+engine_power;Power
+engine_thrust;Thrust
+measureUnits/kgf;kgf
+engine_configuration/v12;V12
+engine_type/petrol;Petrol
+engine_type/diesel;Diesel
+engine_type/gasturbine;Gas turbine
+engine_cylinders_postfix;-cylinder
+engine_displacement;Displacement
+measureUnits/displacement;{num} {num=liter/liters}
+fuelTank/selfsealing;Self-sealing
+fuelTank/not_selfsealing;Not self-sealing
+engine_power_takeoff;Takeoff power
+engine_thrust_takeoff;Takeoff thrust
+engine_thrust_afterburner;Afterburner thrust
+engine_power_max;Max power
+engine_thrust_max;Max thrust
+;
+;
+;
+<Engine Manufacturers>;
+;
+engine_manufacturer/maybach;Maybach
+engine_manufacturer/gnome_et_rhone;Gnome et Rhône
+engine_manufacturer/junkers;Junkers
+engine_manufacturer/klimov;Klimov
+engine_manufacturer/shvetsov;Shvetsov
+engine_manufacturer/pzl_wola;PZL-Wola
+engine_manufacturer/hpz;HPZ
+engine_manufacturer/chtz;ChTZ
+engine_manufacturer/yamz;YaMZ
+engine_manufacturer/transmash;Transmash
+engine_manufacturer/utmz;UTMZ
+engine_manufacturer/kamaz;KamAZ
+engine_manufacturer/lycoming_engines;Lycoming Engines
+engine_manufacturer/gnome-rhone;Gnome-Rhone
+engine_manufacturer/mikulin;Mikulin
+engine_manufacturer/hispano-suiza;Hispano-Suiza
+engine_manufacturer/charomskiy;Charomskiy
+engine_manufacturer/nakajima;Nakajima
+engine_manufacturer/mitsubishi;Mitsubishi
+engine_manufacturer/general_electric;General Electric
+engine_manufacturer/kawasaki;Kawasaki
+engine_manufacturer/toko;Toko
+engine_manufacturer/p&w;Pratt & Whitney
+engine_manufacturer/allison;Allison
+engine_manufacturer/packard;Packard
+engine_manufacturer/wright;Wright
+engine_manufacturer/westinghouse;Westinghouse
+engine_manufacturer/rolls-royce;Rolls-Royce
+engine_manufacturer/napier;Napier
+engine_manufacturer/bristol;Bristol
+engine_manufacturer/de-haviland;de Havilland
+engine_manufacturer/armstrong_siddeley;Armstrong Siddeley
+engine_manufacturer/avro_canada;Avro Canada
+engine_manufacturer/bmw;BMW
+engine_manufacturer/daimler_benz;Daimler-Benz
+engine_manufacturer/walter;Walter
+engine_manufacturer/fiat;Fiat
+engine_manufacturer/alfa_romeo;Alfa Romeo
+engine_manufacturer/gnome_rhone;Gnome Rhone
+engine_manufacturer/argus;Argus
+engine_manufacturer/piaggio;Piaggio
+engine_manufacturer/Isotta_Fraschini;Isotta Fraschini
+engine_manufacturer/atsuta;Atsuta
+engine_manufacturer/snecma;SNECMA
+engine_manufacturer/arsenal;Arsenal
+engine_manufacturer/renault;Renault
+engine_manufacturer/tumansky;Tumansky
+engine_manufacturer/IAR;IAR
+engine_manufacturer/honeywell;Honeywell
+engine_manufacturer/perkins;Perkins
+engine_manufacturer/mtu;MTU
+engine_manufacturer/wartsila;Wärtsilä
+engine_manufacturer/scania;Scania
+engine_manufacturer/turbomeca;Turbomeca
+engine_manufacturer/turbo_union;Turbo-Union
+engine_manufacturer/ishikawa-harima;Ishikawa-Harima
+engine_manufacturer/bristol_suddeley;Bristol Siddeley
+engine_manufacturer/mtu_turbomeca_rolls-royce;MTU Turbomeca Rolls-Royce
+engine_manufacturer/shenyang_liming;Shenyang Liming
+engine_manufacturer/zavod_29;Zavod №29
+engine_manufacturer/svenska_flygmotor;Svenska Flygmotor
+engine_manufacturer/lhtec;LHTEC
+engine_manufacturer/sfa;SFA
+engine_manufacturer/rolls-royce_turbomeca_limited;Rolls-Royce Turbomeca Limited
+engine_manufacturer/saturn;Saturn
+engine_manufacturer/isaev;Isaev
+engine_manufacturer/kolesov;Kolesov
+engine_manufacturer/lulka;A.Lulka
+engine_manufacturer/mtu_aero_engines;MTU Aero Engines
+engine_manufacturer/ultraflight;UltraFlight
+engine_manufacturer/super_engine;Super Engine
+engine_manufacturer/w&p;W&P
+engine_manufacturer/gnome;Gnome
+engine_manufacturer/zhuzhou_aero-engine_factory;Zhuzhou Aero-Engine Factory
+engine_manufacturer/umpo;UMPO
+engine_manufacturer/xaec;XAEC
+engine_manufacturer/snecma_turbomeca_larzac;SNECMA Turbomeca Larzac
+engine_manufacturer/iveco;IVECO
+engine_manufacturer/eurojet;EuroJet
+engine_manufacturer/general_motors;General Motors
+engine_manufacturer/salut;Salyut
+engine_manufacturer/man;MAN
+engine_manufacturer/ivchenko;Ivchenko
+engine_manufacturer/navistar;Navistar
+engine_manufacturer/orenda;Orenda
+engine_manufacturer/cummins;Cummins
+engine_manufacturer/saurer;Saurer
+engine_manufacturer/detroit;Detroit
+engine_manufacturer/weijiang;Weijiang
+engine_manufacturer/weiss_manfred;Weiss Manfréd Acél- és Fémművek
+engine_manufacturer/scania_vabis;Scania-Vabis
+;
+;
+;
+<Engine Models>;
+;
+engine_model/jumo004d;Jumo 004D
+engine_model/14m4/5;14M 4/5
+engine_model/hl230p30;HL230 P30
+engine_model/vk_105p;VK-105P
+engine_model/vk_105pf;VK-105PF
+engine_model/vk_105r;VK-105R
+engine_model/vk_107a;M-107A
+engine_model/gtd_1000tf;GTD-1000TF
+engine_model/gtd_1250;GTD-1250
+engine_model/udt_23t;UTD-23
+engine_model/s12u;S12U
+engine_model/M-82;M-82
+engine_model/M-82-f;M-82F
+engine_model/M-82-fn;M-82FN
+engine_model/rd-10;RD-10
+engine_model/rd-500;RD-500
+engine_model/rd-20;RD-20A-2
+engine_model/rd-45f;RD-45F
+engine_model/vk-1;VK-1
+engine_model/tv3_117v;TV3-117V
+engine_model/v_2_is;V-2-IS
+engine_model/5tdf;5TDF
+engine_model/v_44;V-44
+engine_model/v_54;V-54
+engine_model/v_55v;V-55V
+engine_model/v_46_2s1;V-46-2s1
+engine_model/v_46_5m;V-46-5M
+engine_model/v_46_6;V-46-6
+engine_model/v_84_1;V-84-1
+engine_model/v_92s2;V-92S2
+engine_model/v_92s2f;V-92S2F
+engine_model/2v_06_2;2V-06-2
+engine_model/2v_06_2s;2V-06-2S
+engine_model/238v;238V
+engine_model/utd_29;UTD-29
+engine_model/utd_20;UTD-20
+engine_model/zis_16;ZiS-16
+engine_model/2dg_8m;2DG-8M
+engine_model/740_632_400;740.632-400
+engine_model/t53_l_11;T53-L-11
+engine_model/t53_l_703;T53-L-703
+engine_model/m-11d;M-11D
+engine_model/m-25a;M-25A
+engine_model/m-22;M-22
+engine_model/m-25v;M-25V
+engine_model/m-62;M-62
+engine_model/m-63;M-63
+engine_model/am-35;AM-35A
+engine_model/m-71;M-71
+engine_model/m-88;M-88
+engine_model/am-38;AM-38
+engine_model/am-38f;AM-38F
+engine_model/am-42;AM-42
+engine_model/am-71f;M-71F
+engine_model/m-100;M-100
+engine_model/m-103a;M-103A
+engine_model/ach-30;ACh-30
+engine_model/ash-73tk;ASh-73TK
+engine_model/kotobuki_41;Kotobuki 41
+engine_model/sakae_12;Sakae 12
+engine_model/sakae_21;Sakae 21
+engine_model/ha_32_mod_23;Ha-32 Mod 23
+engine_model/ha_43_11;Ha-43-11
+engine_model/homare_21;Homare 21
+engine_model/homare_23;Homare 23
+engine_model/kasei_26;Kasei 26
+engine_model/ne_20;Ne-20
+engine_model/ha_43_32;Ha-43-32
+engine_model/ha_104;Ha-104
+engine_model/10zg32wt;10ZG32WT
+engine_model/j47_ge_27;J47-GE-27
+engine_model/ha9_IIa;Ha-9-2A
+engine_model/type_99;Type 99
+engine_model/ha_115;Ha-115
+engine_model/ha_34_mod_01;Ha-41
+engine_model/ha_109;Ha-109
+engine_model/ha_40;Ha-40
+engine_model/ha_140;Ha-140
+engine_model/ha_112_2;Ha-112-2
+engine_model/ha_112;Ha-112
+engine_model/ro_2;Ro.2
+engine_model/ha_102;Ha-102
+engine_model/ha_211_ru;Ha-211 Ru
+engine_model/zuisei_13;Zuisey 13
+engine_model/zuisei_11;Zuisey 11
+engine_model/kinsei_44;Kinsei 44
+engine_model/sakae_11;Sakae 11
+engine_model/homare_12;Homare 12
+engine_model/ne_330;Ne-330
+engine_model/ha_5;Ha-5
+engine_model/kinsei_43;Kinsei 43
+engine_model/kasei_22;Kasei 22
+engine_model/kasei_15;Kasei 15
+engine_model/ha_41;Ha-41
+engine_model/mamoru_12;Mamoru 12
+engine_model/nk9k_l;NK9K-L
+engine_model/nk9h;NK9H
+engine_model/ha_219ru;Ha-219 Ru
+engine_model/ha_32;Ha-32
+engine_model/jumo210c;Jumo 210С
+engine_model/r1340-27;R-1340-27
+engine_model/r1340-33;R-1340-33
+engine_model/r1830-17;R-1830-17
+engine_model/1710-29;V-1710-29
+engine_model/1710-35;V-1710-35
+engine_model/1710-75;V-1710-75
+engine_model/1710-91;V-1710-91
+engine_model/1710-113;V-1710-113
+engine_model/1710-27;V-1710-27
+engine_model/1710-51;V-1710-51
+engine_model/1710-89;V-1710-89
+engine_model/1710-111;V-1710-111
+engine_model/1710-95;V-1710-95
+engine_model/1710-39;V-1710-39
+engine_model/1710-85;V-1710-85
+engine_model/r2800-63;R-2800-63
+engine_model/r2800-65;R-2800-65
+engine_model/1710-93;V-1710-93
+engine_model/1710-117;V-1710-117
+engine_model/1710-87;V-1710-87
+engine_model/1710-81;V-1710-81
+engine_model/r2800-73;R-2800-73
+engine_model/r2800-57c;R-2800-57C
+engine_model/1650-7;V-1650-7
+engine_model/1710-145;V-1710-145
+engine_model/1710-143;V-1710-143
+engine_model/j33-a-17;J33-A-17
+engine_model/j33-a-35;J33-A-35
+engine_model/j35-a-15;J35-A-15
+engine_model/j35-a-29;J35-A-29
+engine_model/j47_ge_13;J47-GE-13
+engine_model/r-1820_04;Cyclone R-1820-04
+engine_model/r-1820g2;Cyclone R-1820G2
+engine_model/r-1820-22;Cyclone R-1820-22
+engine_model/r-1820-33;Cyclone R-1820-33
+engine_model/r-1820-34;Cyclone R-1820-34
+engine_model/r-1820-40;Cyclone R-1820-40
+engine_model/r1830-86;R-1830-86
+engine_model/r1830-94;R-1830-94
+engine_model/r2800-10;R-2800-10
+engine_model/r2800-8w;R-2800-8W
+engine_model/r2800-22w;R-2800-22W
+engine_model/r2800-34w;R-2800-34W
+engine_model/j34-we-34;J34-WE-34
+engine_model/j42-p-8;J42-P-8
+engine_model/j42-p-5;J42-P-5
+engine_model/j42-p-8a;J42-P-8A
+engine_model/r985-48;R-985-48
+engine_model/r-1820-52;Cyclone R-1820-52
+engine_model/r-2600-23;R-2600-23
+engine_model/r-2600-20;R-2600-20
+engine_model/r-2600-8;R-2600-8
+engine_model/r-2600-29;R-2600-29
+engine_model/r-3350;R-3350
+engine_model/r-3350-26wd;R-3350-26WD
+engine_model/r-3350-26w;R-3350-26W
+engine_model/r-3350-26wa;R-3350-26WA
+engine_model/r1830-92;R1830-92
+engine_model/r1830-64;R1830-64
+engine_model/r-1820-53;Cyclone R-1820-53
+engine_model/r-1820-65;R-1820-65
+engine_model/r-1820-97;R-1820-97
+engine_model/r1830-65;R1830-65
+engine_model/r-3350-57;R-3350-57
+engine_model/j65-w-5;J65-W-5
+engine_model/j65-w-16a;J65-W-16A
+engine_model/r-3350-14;R-3350-14
+engine_model/r-1820-67;R-1820-67
+engine_model/r-1820-69;R-1820-69
+engine_model/r2800-27;R-2800-27
+engine_model/kestrel;Kestrel
+engine_model/merlin-3;Merlin-III
+engine_model/merlin-20;Merlin-XX
+engine_model/merlin-24;Merlin-24
+engine_model/sabre-2a;Sabre 2a
+engine_model/sabre-2;Sabre 2
+engine_model/centaurus-5;Centaurus V
+engine_model/orpheus_mk_801;Orpheus Mk.801
+engine_model/orpheus_mk_803;Orpheus Mk.803
+engine_model/goblin-2;Goblin II
+engine_model/goblin-3;Goblin 3
+engine_model/ghost_103;Ghost-103
+engine_model/avon_113;Avon Mk.113
+engine_model/mercury-ix;Mercury-IX
+engine_model/merlin-12;Merlin-XII
+engine_model/merlin-45;Merlin-45
+engine_model/merlin-45m;Merlin-45M
+engine_model/merlin-61;Merlin-61
+engine_model/merlin-66;Merlin-66
+engine_model/merlin-68a;Merlin-68A
+engine_model/merlin-266;Merlin-266
+engine_model/griffon-65;Griffon-65
+engine_model/griffon-61;Griffon-61
+engine_model/derwent-8;Derwent 8
+engine_model/derwent-2;Derwent 2
+engine_model/derwent-5;Derwent 5
+engine_model/derwent;Derwent
+engine_model/griffon-2;Griffon-2
+engine_model/griffon-74;Griffon-74
+engine_model/centaurus-9;Centaurus IX
+engine_model/griffon-6;Griffon-VI
+engine_model/griffon-88;Griffon-88
+engine_model/centaurus-18;Centaurus XVIII
+engine_model/nene-3;Nene-3
+engine_model/viper-535;Viper Mk.535
+engine_model/mercury-xv;Mercury-XV
+engine_model/s3c4-g;S3C4-G
+engine_model/hercules-vi;Hercules VI
+engine_model/hercules-III;Hercules III
+engine_model/hercules-xvii;Hercules XVII
+engine_model/merlin-25;Merlin-25
+engine_model/centaurus-57;Centaurus 57
+engine_model/pegasus_iii_m3;Pegasus III M3
+engine_model/pegasus_xviii;Pegasus XVIII
+engine_model/hercules_xi;Hercules XI
+engine_model/hercules_vi;Hercules VI
+engine_model/hercules_xvi;Hercules XVI
+engine_model/merlin-28;Merlin-28
+engine_model/avon_101;Avon Mk.101
+engine_model/avon_109;Avon Mk.109
+engine_model/s1h1;S1H1-G
+engine_model/s3cg;S3CG
+engine_model/pyton_3;Python 3
+engine_model/12y45;12Y-45
+engine_model/orenda_10;Orenda 10
+engine_model/am_34n;AM-34N
+engine_model/m_17;M-17
+engine_model/jumo_213a;Jumo 213А
+engine_model/bmw_6;VI
+engine_model/jumo_210d;Jumo 210D
+engine_model/jumo_210e;Jumo 210E
+engine_model/db_601a;DB-601A
+engine_model/db_601n;DB-601N
+engine_model/db_601e;DB-601E
+engine_model/db_605a;DB-605A
+engine_model/db_605am;DB-605AM
+engine_model/db_605asm;DB-605ASM
+engine_model/db_605db;DB-605DB
+engine_model/db_605dc;DB-605DC
+engine_model/db_610;DB-610
+engine_model/hwk_109_509a-2;HWK 109-509A-2
+engine_model/jumo004b-1;Jumo 004B-1
+engine_model/bmw_003;3
+engine_model/bmw_003r;003-R
+engine_model/bmw_003e;003-E
+engine_model/a74;A74
+engine_model/bmw_801_c1;801 С1
+engine_model/bmw_801_d2;801 D2
+engine_model/jumo_213e1;Jumo-213E1
+engine_model/db_603la;DB-603LA
+engine_model/db_603u;DB-603U
+engine_model/mtca;MTCA 12V
+engine_model/ra_1000_rc_41;R.A.1000 RC.41
+engine_model/bramo_323;Bramo 323P
+engine_model/bmw_801_ml;801 ML
+engine_model/db_603a;DB-603A
+engine_model/db_603qa;DB-603QA
+engine_model/db_603qe;DB-603QE
+engine_model/db_603e;DB-603E
+engine_model/132a;132A
+engine_model/jumo_211d;Jumo 211D
+engine_model/jumo_211j;Jumo 211J
+engine_model/baumuster_14m;Baumuster 14M
+engine_model/iv_7_3;IV 7.3
+engine_model/jumo_211f;Jumo 211F
+engine_model/jumo_211b_1;Jumo 211B-1
+engine_model/126_rc_34;126 RC 34
+engine_model/k14_mistral;K.14 Mistral
+engine_model/132h;132H
+engine_model/bmw_801_d;801 D
+engine_model/as_410;AS 410
+engine_model/1710-77;V-1710-77
+engine_model/r2800-31;R-2800-31
+engine_model/ha_112_2ru;Ha-112-II Ru
+engine_model/kasei_14;Kasei 14
+engine_model/j48-p-8a;J48-P-8A
+engine_model/hwk_109_509s;HWK 109-509s
+engine_model/bmw_109-718;109-718
+engine_model/r2800-79;R-2800-79
+engine_model/rd-20f;RD-20F
+engine_model/vk_105pf2;VK-105PF2
+engine_model/r-1820-95;R-1820-95
+engine_model/RC.41;A80 RC.41
+engine_model/a-30;A30
+engine_model/a-30bis;A30 Bis
+engine_model/P_X_R;P.X.R
+engine_model/P_XI_RC40;P.XI. R.C. 40
+engine_model/P.XII RC.35;P.XII RC.35
+engine_model/P_XI_RC40bis;P.XI.Bis R.C. 40
+engine_model/isotta;K-14fc
+engine_model/jumo_210g;Jumo 210G
+engine_model/r2800-10w;R-2800-10w
+engine_model/r1830-47;R-1830-47
+engine_model/atsuta_31;Atsuta 31
+engine_model/kinsei_62;Kinsei 62
+engine_model/1650-9;1650-9
+engine_model/ash-73;ASH-73
+engine_model/ash-82v;ASH-82V
+engine_model/r3350_43;R-3350-43
+engine_model/merlin-130;Merlin 130
+engine_model/merlin-131;Merlin 131
+engine_model/r2800-18w;R-2800-18w
+engine_model/125_rc_35;125 R.C.35
+engine_model/r2800-42w;R-2800-42w
+engine_model/j48-p-6;J-48-P-6
+engine_model/bmw_801_tu;801 TU
+engine_model/12y31;12Y-31
+engine_model/12xbrs;12Xbrs
+engine_model/12xcrs;12Xcrs
+engine_model/12xgrs;12Xgrs
+engine_model/12ycrs;12Ycrs
+engine_model/14m_6;14M-6
+engine_model/14ab_10;14Ab-10
+engine_model/14ab_11;14Ab-11
+engine_model/14mars;14Mars
+engine_model/r-2600-13;R-2600-13
+engine_model/14r;14R
+engine_model/av_14_kirs;AV 14 Kirs
+engine_model/nene-mk104;Nene-Mk.104
+engine_model/atar_101c;Atar 101C
+engine_model/atar_101d3;Atar 101D3
+engine_model/atar_101e3;Atar 101E3
+engine_model/12h-02;12H-02
+engine_model/12z;12Z
+engine_model/12_r_03;12 R.03
+engine_model/12y29;12Y-29
+engine_model/14n-38;14N-38
+engine_model/14n-39;14N-39
+engine_model/14kfs;14Kfs
+engine_model/12Zars-15;12Zars-15
+engine_model/12Zars-16;12Zars-16
+engine_model/14n-48;14N-48
+engine_model/atar_101e5;Atar 101E5
+engine_model/tay_mk250;Tay Mk.250
+engine_model/griffon-83;Griffon-83
+engine_model/r1830-s1c3-g;R-1830-S1C3-G
+engine_model/ha_45_type_99;Ha-45 type 99
+engine_model/M-87A;M-87A
+engine_model/M-87;M-87
+engine_model/kestrel_iis;Kestrel IIS
+engine_model/kestrel_iv;Kestrel IV
+engine_model/kestrel_vfp;Kestrel VFP
+engine_model/ha_43_42;Ha-43-42
+engine_model/ha9_IId;Ha-9-2B
+engine_model/IAR-14KIVc32;IAR-14KIVc32
+engine_model/IAR-14KIIc32;14K II c32
+engine_model/db_601f;DB-601F
+engine_model/db_605b;DB-605B
+engine_model/1650-1;V-1650-1
+engine_model/agt_1500;AGT1500
+engine_model/mb_838_ca_m500;MB 838 Ca-M500
+engine_model/mb_873_ka_501;MB 873 Ka-501
+engine_model/mt_883_ka_501;MT 883 Ka-501
+engine_model/mt_883;MT 883
+engine_model/cv12_6a;CV12-6A
+engine_model/v8x_1500;V8X-1500
+engine_model/dsi_14;DSI14
+engine_model/di_16;DI16
+engine_model/vk-2500-ii;VK-2500-II
+engine_model/T700-GE-401C;T700-GE-401C
+engine_model/am-42fb;AM-42FB
+engine_model/rb199_34r_mk101;RB199-34R Mk.101
+engine_model/rb199_34r_mk103;RB199-34R Mk.103
+engine_model/rb199_34r_mk104;RB199-34R Mk.104
+engine_model/rb199_34r_mk105;RB199-34R Mk.105
+engine_model/artouste_iic6;Artouste IIC6
+engine_model/t53l13;T53-L-13
+engine_model/250c20b;250-C20B
+engine_model/250c20r3;250-C20R3
+engine_model/14n-66;14N-66
+engine_model/14n-67;14N-67
+engine_model/j57_p_21;J57-P-21
+engine_model/rd-9b;RD-9B
+engine_model/sapphire_mk_205;Sapphire Mk.205
+engine_model/sapphire_mk_206;Sapphire Mk.206
+engine_model/14_n_25;14 N 25
+engine_model/sapphire_mk_209;Sapphire Mk.209
+engine_model/sapphire_mk_210;Sapphire Mk.210
+engine_model/db_603s;DB-603A(S)
+engine_model/r_2600_6;R-2600-6
+engine_model/r_2600_12;R-2600-12
+engine_model/1710-63;V-1710-63
+engine_model/r_2600_22;R-2600-22
+engine_model/bmw801tj;801TJ
+engine_model/m-88p;M-88R
+engine_model/r2800-34;R-2800-34
+engine_model/atar_101g_2;Atar 101G2
+engine_model/TF40-801A;TF40-801A
+engine_model/J85-GE-13A;J85-GE-13A
+engine_model/db_605a1;DB-605A1
+engine_model/orenda_14;Orenda 14
+engine_model/nene-mk103;Nene-Mk.103
+engine_model/astazou_14;Astazou XIV
+engine_model/astazou_3b;Astazou IIIB
+engine_model/r-1820-84;R-1820-84
+engine_model/jumo_213e;Jumo 213E
+engine_model/avon_203;Avon Mk.203
+engine_model/avon_207;Avon Mk.207
+engine_model/j31_ge_3;J31-GE-3
+engine_model/j47_ge_17b;J47-GE-17B
+engine_model/r4360_4w;R-4360-4W
+engine_model/t40_a_6;T40-A-6
+engine_model/p_xix_rc_45;P.XIX. R.C. 45
+engine_model/M-87b;M-87B
+engine_model/j79_ge_15;J79-GE-15
+engine_model/j35-a-21b;J35-A-21B
+engine_model/j35-a-35;J35-A-35
+engine_model/r-11f-300;R-11F-300
+engine_model/gem_60;GEM 60
+engine_model/gem_41-2;GEM 41-2
+engine_model/nimbus_mk101;Nimbus Mk.101
+engine_model/nimbus_mk103;Nimbus Mk.103
+engine_model/mtr390-2c;MTR390-2c
+engine_model/mtr390-e;MTR390-E
+engine_model/avon_105;Avon Mk.105
+engine_model/avon_116;Avon Mk.116
+engine_model/wp-7b;WP-7b
+engine_model/wp-6a;WP-6a
+engine_model/wp-6a-iii;WP-6A-III
+engine_model/m-85;M-85
+engine_model/m-86;M-86
+engine_model/am_34nb;AM-34NB
+engine_model/r-1820-g5;R-1820-G5
+engine_model/r-1820-87;R-1820-87
+engine_model/spey_202;Spey 202
+engine_model/spey_203;Spey 203
+engine_model/rm2b;RM2B
+engine_model/rm5a;RM5A
+engine_model/rm6a;RM6A
+engine_model/cts800-2;CTS800-2
+engine_model/tv3_117vma;TV3-117VMA
+engine_model/swc3;STWC3
+engine_model/ha_115_2;Ha-115-II
+engine_model/homare_42;Homare 42
+engine_model/pegasus_xxiv;Pegasus XXIV
+engine_model/jupiter_viif;Jupiter VIIF
+engine_model/rm2;RM2
+engine_model/rm1;RM1
+engine_model/rm1a;RM1A
+engine_model/atar_8c2;Atar 8C2
+engine_model/T700-GE-701;T700-GE-701
+engine_model/T700-GE-701C;T700-GE-701C
+engine_model/T700-GE-700;T700-GE-700
+engine_model/RTM322;RTM322
+engine_model/r-13f-300;R-13F-300
+engine_model/r-13-300;R-13-300
+engine_model/mercury-xxiv;Mercury XXIV
+engine_model/j79_ge_17;J79-GE-17
+engine_model/rm6c;RM 6С
+engine_model/avon_302;Avon Mk.302
+engine_model/r2800-83wa;R2800-83WA
+engine_model/j57_p_7;J57P7
+engine_model/j57_p_8;J57P8
+engine_model/wp-5;WP-5
+engine_model/kasei_25;Kasei 25
+engine_model/pegasus_30;Pegasus 30
+engine_model/avon_202;Avon Mk.202
+engine_model/j79_ge_19;J79-GE-19
+engine_model/j79_ge_3;J79-GE-3
+engine_model/j79_ge_3b;J79-GE-3B
+engine_model/j79_ge_7;J79-GE-7
+engine_model/j79_ge_11;J79-GE-11
+engine_model/atar_9b;Atar 9B
+engine_model/al_7f_1_100;AL-7F-1-100
+engine_model/j71-a-2;J71-A-2
+engine_model/mamoru_11;Mamoru 11
+engine_model/j79_ge_7a;J79-GE-7a
+engine_model/M-82-ir;M-82IR
+engine_model/bmw_13k;132K
+engine_model/j65-w-18;J65-W-18
+engine_model/al_7f_1_200;AL-7F-1-200
+engine_model/r2800-59;R-2800-59
+engine_model/r2800-43;R-2800-43
+engine_model/adour_mk102;Adour Mk.102
+engine_model/al_7f_1_250;AL-7F-1-250
+engine_model/wp-6;WP-6
+engine_model/d-1a;D-1a
+engine_model/rd-36-35fv;RD-36-35FV
+engine_model/r-27v-300;R-27V-300
+engine_model/r-25-300;R-25-300
+engine_model/rm9b;RM9B
+engine_model/pegasus_101;Pegasus Mk.101
+engine_model/pegasus_103;Pegasus Mk.103
+engine_model/pegasus_104;Pegasus Mk.104
+engine_model/pegasus_105;Pegasus Mk.105
+engine_model/f402-rr-401;F402-RR-401
+engine_model/f402-rr-402;F402-RR-402
+engine_model/f402-rr-408;F402-RR-408
+engine_model/r_4360_4_wasp_major;R-4360-4 Wasp Major
+engine_model/a_74_rc_38;A.74 R.C.38
+engine_model/rd-38;RD-38
+engine_model/r-28v-300;R-28V-300
+engine_model/j52-p-6a;J52-P-6A
+engine_model/j52-p-8a;J52-P-8A
+engine_model/j52-p-8as;J52-P-8As
+engine_model/j52-p-8b;J52-P-8B
+engine_model/j52-p-408;J52-P-408
+engine_model/tf_41_a_1;TF-41-A-1
+engine_model/tf_41_a_2;TF-41-A-2
+engine_model/gem_2_1004d;GEM 2-1004D
+engine_model/250c20r1;250-C20R1
+engine_model/spey_101;Spey 101
+engine_model/r-11f2s-300;R-11F2S-300
+engine_model/j85-ge-17b;J85-GE-17B
+engine_model/j65-w-7;J65-W-7
+engine_model/j65-w-3;J65-W-3
+engine_model/am-37p;AM-37P
+engine_model/mercury-viii;Mercury VIII
+engine_model/j85_ge_13;J85-GE-13
+engine_model/al_21f_3;AL-21F-3
+engine_model/tr_1;TR-1
+engine_model/atar_9c;Atar 9C
+engine_model/nene-102;Nene-102
+engine_model/j57_p_16;J57-P-16
+engine_model/merlin_225;Merlin 225
+engine_model/j79_mtu_17a;J79-MTU-17A
+engine_model/j79_mtu_j1k;J79-MTU-J1K
+engine_model/willy_willy_9;Willy-Willy-9
+engine_model/willy_willy_mini_9;Willy-Willy-9-mini
+engine_model/power_pull_2000;PowerPull-2000
+engine_model/zx-785-se;ZX-785-se
+engine_model/big_boss;Big Boss
+engine_model/dragon_6;Dragon-6
+engine_model/little_pony;Little Pony
+engine_model/zzzzoom;Zzzzoom-Boom
+engine_model/big_pony;Big Pony
+engine_model/al_61f;AL-61F
+engine_model/centaurus-59;Centaurus 59
+engine_model/avon_208;Avon Mk.208
+engine_model/r-11af-300;R-11AF-300
+engine_model/verdon_350;Verdon-350
+engine_model/r-29-300;R-29-300
+engine_model/wp-7f;WP-7F
+engine_model/j85_ge_21a;J85-GE-21A
+engine_model/derwent-9;Derwent 9
+engine_model/wp-13f;WP-13F
+engine_model/sc3-g;SC3-G
+engine_model/sakae_31a;Sakae 31a
+engine_model/gyron_junior_dgj_2;Gyron Junior DGJ.2 (Mk.101)
+engine_model/mk4b;MK4B
+engine_model/jumo_211n;Jumo 211N
+engine_model/128_rc_18;128 RC.18
+engine_model/sgr_1820_f_3;SGR-1820 F-3
+engine_model/r-29b-300;R-29B-300
+engine_model/rm8a;RM8A
+engine_model/rm8b;RM8B
+engine_model/rm6b;RM6B
+engine_model/jumo_205d;Jumo 205D
+engine_model/m_43v;M-43V
+engine_model/griffon-57a;Griffon 57A
+engine_model/j57_p_20a;J57-P-20A
+engine_model/j57_p_20;J57-P-20
+engine_model/vk-2500p;VK-2500P
+;R-35-300
+engine_model/gr_2600-a5b;GR-2600-A5B
+engine_model/adour_mk104;Adour Mk.104
+engine_model/merlin-55m;Merlin-55M
+engine_model/r-29bs-300;R-29BS-300
+engine_model/tf34_ge_100a;TF34-GE-100A
+engine_model/tf34_ge_100;TF34-GE-100
+engine_model/j75-p-19w;J75-P-19W
+engine_model/j79_ge_j1e;J79-GE-J1E
+engine_model/j79_ge_10;J79-GE-10
+engine_model/j79_ge_10b;J79-GE-10B
+engine_model/wp-13a-ii;WP-13A-II
+engine_model/atar_9k_50;Atar 9K-50
+engine_model/tf30_p_412a;TF30-P-412A
+engine_model/RSr_2_Soar;RSr.2 Soar
+engine_model/wz-8c;WZ8C
+engine_model/r-95sh;R-95SH
+engine_model/r-195;R-195
+engine_model/mercury_viia;Mercury VIIIA/AS
+engine_model/wz-8a;WZ8A
+engine_model/wz-8d;WZ8D
+engine_model/wz-9;WZ9
+engine_model/makila_1k2;Makila 1K2
+engine_model/m53-5;M53-5
+engine_model/m53-p2;M53-P2
+engine_model/cts800-4a;CTS800-4a
+engine_model/avon_115;Avon Mk.115
+engine_model/f100_pw_220;F100-PW-220
+engine_model/rd-33;RD-33
+engine_model/wp-13f1;WP-13FI
+engine_model/rd-41;RD-41
+engine_model/r79v-300;R79V-300
+engine_model/250c30;250-C30
+engine_model/250c30r;250-C30R
+engine_model/wp-13b-ii;WP-13B-II
+engine_model/f110-ge-400;F110-GE-400
+engine_model/f110-ge-100;F110-GE-100
+engine_model/f110-ge-129;F110-GE-129
+engine_model/gnome_h_1200;Gnome H.1200
+engine_model/tv2_117a;TV2-117A
+engine_model/atar_8k_50;Atar 8K-50
+engine_model/rd-33_serie_2;RD-33 series 2
+engine_model/rd-33_serie_3;RD-33 series 3
+engine_model/tf30_p_3;TF30-P-3
+engine_model/tv3_117vm;TV3-117VM
+engine_model/ws_9;WS-9
+engine_model/f100_pw_100;F100-PW-100
+engine_model/al_31f;AL-31F
+engine_model/rm12;RM12
+engine_model/f100_ihi_100;F100-IHI-100
+engine_model/spey_807;Spey 807
+engine_model/adour_mk811;Adour Mk.811
+engine_model/f404_ge_100;F404-GE-100
+engine_model/04_c5;04-C5
+engine_model/6td1;6TD-1
+engine_model/04_c6;04-C6
+engine_model/pegasus_106;Pegasus Mk.106
+engine_model/f100_ihi_220e;F100-IHI-220E
+engine_model/j79_ihi_11;J79-IHI-11
+engine_model/cv12_9a;CV12-9A
+engine_model/tf30_p_100;TF30-P-100
+engine_model/tf30_p_103;TF30-P-103
+engine_model/tf30_p_109;TF30-P-109
+engine_model/sapphire_mk_assa_7;ASSa.7
+engine_model/rd-93;RD-93
+engine_model/mitsubishi_10zf_22wt;Mitsubishi 10ZF 22WT
+engine_model/8va_twk;8VA 34WTK
+engine_model/al_31fn;AL-31FN
+engine_model/f402-rr-406;F402-RR-406
+engine_model/m-100a;M-100A
+engine_model/al_31f_m1;AL-31FM1
+engine_model/f100_pw_229;F100-PW-229
+engine_model/iveco_8262_6v;8262 V6
+engine_model/td_12;TD-12
+engine_model/vk-2500_03;VK-2500-03
+engine_model/j60_no1_mk100b;J.60 No1 Mk100B
+engine_model/8v_150;8V150
+engine_model/f404_f1d2;F404-F1D2
+engine_model/6v_53t;6V53T
+engine_model/viper_633_41;Viper Mk.633-41
+engine_model/ej200;EJ200
+engine_model/mt_881_ka_500;MT 881 Ka-500
+engine_model/al_31f_series_3;AL-31F-3
+engine_model/m88_2;M88-2E1
+engine_model/viper_633_47;Viper Mk.633-47
+engine_model/f404_ge_400;F404-GE-400
+engine_model/f404_ge_402;F404-GE-402
+engine_model/al_31fp;AL-31FP
+engine_model/ws_10a;WS10A
+engine_model/v_84_amc;V-84AMC
+engine_model/pegasus_107;Pegasus Mk.107
+engine_model/d13;D13
+engine_model/04_c20;04-C20
+engine_model/14n-35;14N-35
+engine_model/r-1535-2;R-1535-2
+engine_model/peregrine_1;Peregrine I
+engine_model/atsuta_21;Atsuta 21
+engine_model/1710-33;V-1710-33
+engine_model/r-1535-2;R-1535-2
+engine_model/peregrine_1;Peregrine I
+engine_model/atsuta_21;Atsuta 21
+engine_model/1710-33;V-1710-33
+engine_model/orpheus_mk_703;Orpheus Mk.703
+engine_model/d2066;D2066
+engine_model/ai_25tl;AI-25TL
+engine_model/f110-ihi-129;F110-IHI-129
+engine_model/wp_13;WP13.550/605
+engine_model/isbe_285;ISBe 285
+engine_model/maxxforce_13;MaxxForce 13
+engine_model/t800-lht-801;T800-LHT-801
+engine_model/r-1820-62;R-1820-62
+engine_model/j85_can_15;J85-CAN-15
+engine_model/wz-9c;WZ9C
+engine_model/ys-2;YS-2
+engine_model/j75-p-17;J75-P-17
+engine_model/vk-1f;VK-1F
+engine_model/j71-a-13;J71-A-13
+engine_model/8v92ta;8V92TA
+engine_model/v_84_2s1;V-84-2S1
+engine_model/utd_29t_01;UTD-29T-01
+engine_model/wj-6;WJ6
+engine_model/sakae_22;Sakae 22
+engine_model/ha_25_type_99;Ha-25 type 99
+engine_model/T700-GE-701D;T700-GE-701D
+engine_model/6td2;6TD-2E
+engine_model/t64_ge_716;T64-GE-716
+engine_model/sagita_i_sr;Sagita I-SR
+engine_model/r2000_7;R2000-7
+engine_model/viper_mk540;Viper Mk.540
+engine_model/id38ss;ID38SS
+engine_model/740_13_300;740.13-300
+engine_model/condor_900e;Condor 900E
+engine_model/viper_632_43;Viper Mk.632-43
+engine_model/f414_ge_400;F414-GE-400
+engine_model/r15bd_300;R15BD-300
+engine_model/mtu_8v_199_te21;MTU 8V 199 TE21
+engine_model/6m70t4;6M70T4
+engine_model/r-1820-f53;R-1820-F53
+engine_model/r-985-48_an-2;R-985-48-AN-2
+engine_model/r-1535-96;R-1535-96
+engine_model/dsc1122;DSC1122
+engine_model/al_31fn_series_3;AL-31FN-S-3
+engine_model/r-1820-72w;R-1820-72w
+engine_model/f414_ge_39e_rm16;RM16
+engine_model/ws_10b;WS10B
+engine_model/m88_2e4;M88-2E4
+engine_model/al_41f1s;AL-41F1S
+engine_model/viper_11;Viper 11
+engine_model/mtu_8v_199_te20;MTU 8V 199 TE20
+engine_model/1710-55;V-1710-55
+engine_model/gr-1820-g3;GR-1820 G-3
+engine_model/rd-33k;RD-33K
+engine_model/ws_10h;WS10H
+engine_model/ws_10h2;WS10H2
+engine_model/vk_105ra;VK-105RA
+engine_model/iveco_vector_8v;VECTOR 8V
+engine_model/f100_pw_200;F100-PW-200
+engine_model/mtu_8v_199_te21d;MTU 8V 199 TE21-D
+engine_model/t700_ihi_701c;T700-IHI-701C
+engine_model/wm_k-14a;WM K-14A
+engine_model/wm_k-14b;WM K-14B
+engine_model/6r_106_td_21;6R 106 TD21
+engine_model/vta_903t_v8;VTA903T V8
+engine_model/603_2;603/2
+engine_model/nk-12m;NK-12M
+engine_model/tf33_p_3;TF33-P-3
+engine_model/j57_p_13;J57-P-13
+engine_model/astazou_16g;Astazou XVIG
+engine_model/ai_222_25;AI-222-25
+engine_model/rd-33mk;RD-33MK
+engine_model/merlin-72;Merlin-72
+engine_model/merlin-73;Merlin-73
+engine_model/f124_ga_200;F124-GA-200
+engine_model/6B_TA;6BTA 5.9
+engine_model/adour_mk151;Adour Mk.151
+engine_model/j57_p_23a;J57-P-23A
+engine_model/cts800-4n;CTS800-4N
+engine_model/arriel_2e;Arriel 2E
+engine_model/ha_214;Ha-214
+engine_model/j65-w-420;J65-W-420
+engine_model/ws_10b_series_3;WS10B Series 3
+;
+;
+;
+<Transmission>;
+;
+transmission_type/auto;Automatic
+transmission_type/mech;Mechanical
+transmission_manufacturer/allison;Allison
+transmission_model/x_1100_3b;X-1100-3B
+transmission_manufacturer/perkins;Perkins
+transmission_model/x_300;X-300
+transmission_manufacturer/david_brown;David Brown
+transmission_model/tn54e;TN54E
+transmission_manufacturer/renk;Renk
+transmission_model/hswl_295;HSWL 295
+transmission_model/lsg_3000;LSG 3000
+transmission_model/mt1500;MT1500
+transmission_manufacturer/sesm;SESM
+transmission_model/esm_500;ESM 500
+transmission_model/grs900r;GRS900R
+transmission_model/hswl_256b;HSWL 256B
+transmission_model/3040_mx;3040 MX
+transmission_model/hd_4070;HD4070
+transmission_model/3200_sp;3200 SP
+transmission_model/friedrichshafen_lsg_2000;Friedrichshafen LSG 2000
+transmission_model/zf_7hp_902;ZF 7HP 902
+transmission_model/tn_15e;TN15E
+;
+;
+;
+<Sensors>;
+;
+radar;Radar
+radar_irst;Radar/IRST
+irst;IRST
+radar_tv;Radar/TV tracker
+tv;TV tracker
+radar_type;Type
+search_radar;Search Radar
+search_radar_irst;Search Radar/IRST
+search_irst;Search IRST
+search_radar_tv;Search Radar/TV
+search_tv;Search TV
+track_radar;Track Radar
+track_radar_irst;Track Radar/IRST
+track_irst;Track IRST
+track_radar_tv;Track Radar/TV
+track_tv;TV Tracker
+radar_range_finder;Radar Range-Finder
+radar_freq_band;Band
+radar_freq_band_0;A
+radar_freq_band_1;B
+radar_freq_band_2;C
+radar_freq_band_3;D
+radar_freq_band_4;E
+radar_freq_band_5;F
+radar_freq_band_6;G
+radar_freq_band_7;H
+radar_freq_band_8;I
+radar_freq_band_9;J
+radar_freq_band_10;K
+radar_freq_band_11;L
+radar_freq_band_12;M
+radar_range_max;Range
+radar_search_zone_max;Search zone
+radar_ld;Look-down
+radar_ld_head_on;Head-on
+radar_ld_head_on_velocity;Head-on, velocity search
+radar_ld_all_aspects;All aspects
+radar_lu;Look-up
+radar_tws;Track While Scan
+radar_tws_plus;Track While Scan+
+radar_iff;Identification Friend or Foe
+radar_bvr_mode;Beyond Visual Range mode
+radar_acm_mode;Air Combat Maneuvering mode
+radar_hms_mode;Helmet Mounted Sight mode
+radar_sarh;CW Illuminator
+radar_mg;Missile Guidance
+radar_dl_channels;DL Channels
+rwr_threats_types;Threats types
+rwr_tracked_threats_max;Tracked threats
+rwr_tracking_detection;Tracking detection
+rwr_launch_detection;Launch detection
+rwr_tracking_threats_types;Tracking threats types
+rwr_launching_threats_types;Launching threats types
+rwr_scope_id_threats_types;Threat types on scope
+rwr_present_id_threats_types;Threat types
+rwr_threats_unlimited;Unlimited
+rwr_signal_strength;Signal Strength
+rwr_iff;Identification Friend or Foe
+avionics_sight_turret;Turret
+avionics_sight_cannon;Cannons
+avionics_sight_rocket;Rockets
+avionics_sight_bomb;Bombs
+avionics_sight_vision/tv;TV
+avionics_sight_vision/lltv;LLTV
+avionics_sight_vision/flir;FLIR
+avionics_sensor_radar;Radar
+avionics_sensor_irst;IRST
+avionics_sensor_tv;TV
+avionics_sensor_radar_irst;Radar/IRST
+avionics_sensor_rwr;RWR
+avionics_sensor_lws;LWR
+avionics_sensor_mlws;Missile Approach Warning
+avionics_aim_spi;Sensor Point of Interest
+avionics_hmd;Helmet Mounted Display
+avionics_aim_laser_designator;LDR
+avionics_countermeasure_ircm;IRCM
+CCIP;CCIP
+sight_AUTO;EEGS
+CCRP;CCRP
+;
+;
+;
+<Airborne Radars>;
+;
+sensors/us_ma_1;MA-1
+sensors/us_mg_10;"MG-10
+IRST: 90-C"
+sensors/us_an_apg_60;AN/APG-60
+sensors/us_an_apg_61;AN/APG-61
+sensors/us_an_apg_63;AN/APG-63
+sensors/us_an_apg_63_psp;AN/APG-63 PSP
+sensors/us_an_apg_63_v_1;AN/APG-63(V)1
+sensors/us_an_apg_63_baz;AN/APG-63(V)1
+sensors/us_an_apg_63_v_3;AN/APG-63(V)3
+sensors/us_an_apg_65q;AN/APG-65(V)2
+sensors/us_an_apg_65gy;AN/APG-65GY
+sensors/us_an_apg_66;AN/APG-66(V)
+sensors/us_an_apg_66_v_1;AN/APG-66(V)2
+sensors/us_an_apg_66_v_2;AN/APG-66(V)2
+sensors/us_an_apg_66_v_2_hms;AN/APG-66(V)2
+sensors/us_an_apg_66_v_3;AN/APG-66(V)3
+sensors/us_an_apg_66h;AN/APG-66H
+sensors/us_an_apg_68_v_5;AN/APG-68(V)5
+sensors/us_an_apg_68_v_7;AN/APG-68(V)7
+sensors/us_an_apg_70;AN/APG-70
+sensors/us_an_apg_71;AN/APG-71
+sensors/us_an_apg_73;AN/APG-73
+sensors/us_an_apg_76_an_asx_1;AN/APG-76
+sensors/us_an_apg_78;AN/APG-78
+sensors/us_an_apg_78_v6;AN/APG-78(V)6
+sensors/us_an_apg_79;AN/APG-79
+sensors/us_an_apg_83;AN/APG-83 SABR
+sensors/us_an_apq_159_v;AN/APQ-159(V)
+;
+sensors/su_gneys_5s;GNEYS-5S
+sensors/su_srd-1;SRD-1
+sensors/su_srd-5;SRD-5
+sensors/su_orion;Orion-A
+sensors/su_thorium;Thorium
+sensors/su_kopio;Kopyo-21
+sensors/su_kopio_25;Kopyo-25
+sensors/su_rp-1_search;RP-1 Izumrud
+sensors/su_rp-1_track;RP-1 Izumrud
+sensors/su_rp-5_search;RP-5 Izumrud
+sensors/su_rp-5_track;RP-5 Izumrud
+sensors/su_sapphire_21;RP-22SM Sapfir-21M
+sensors/su_sapphire_23;"RP-23D Sapfir-23D
+IRST: TP-23"
+sensors/su_sapphire_23e;"RP-23E Sapfi-23E
+IRST: TP-23-1"
+sensors/su_sapphire_23ml;"N003 Sapfir-23MLA
+IRST: TP-23M"
+sensors/su_sapphire_23mla;"N003 Sapfir-23MLA
+IRST: TP-23M"
+sensors/su_sapphire_23mla_2;"N008 Sapfir-23MLA-II
+IRST: TP-23M"
+sensors/su_sapphire_25;"N005 Sapfir-25
+IRST: TP-26Sh1"
+sensors/su_n_001;"N001 Merch
+IRST: OEPS-27"
+sensors/su_n_001k;"N001K Merch
+IRST: OEPS-27"
+sensors/su_n_001ve;"N001VE Merch
+IRST: OEPS-30"
+sensors/su_n_001vep;"N001VP Merch
+IRST: OEPS-30"
+sensors/su_n_010;"N010 Zhuk
+IRST: OEPS-29"
+sensors/su_n_010m;"N010M Zhuk-M
+IRST: OEPS-29"
+sensors/su_n_010m_ols_ue;"N010M Zhuk-M
+IRST: OLS-UE"
+sensors/su_n_010a;"N010AE Zhuk-AE
+IRST: OLS-UE"
+sensors/su_n_011m;"N011M Bars
+IRST: OEPS-30"
+sensors/su_n_011r;"N011R Bars
+IRST: OEPS-30"
+sensors/su_n_019;"N019 Rubin
+IRST: OEPS-29"
+sensors/su_n_019e;"N019E Rubin
+IRST: OEPS-29E"
+sensors/su_n_019me;"N019ME Rubin
+IRST: OEPS-29E"
+sensors/su_n_025;N025 Almaz
+sensors/su_n_035e;"N035 Irbis
+IRST: OEPS-30"
+sensors/su_rn_01_arbalet;RN-01 Crossbow
+;
+sensors/uk_ai_mk18;AI.18
+sensors/uk_ai;AI.23
+sensors/uk_ari_5390;Blue Parrot
+sensors/uk_ari_5820;ARI 5820
+sensors/uk_ari_23264_1;ARI 23264/1
+sensors/uk_marconi_type_226;226
+sensors/uk_ferranti_blue_vixen;Blue Vixen
+sensors/uk_ferranti_blue_fox;Blue Fox
+sensors/uk_marconi_ai_mk24_stage_2g;AI.24 Foxhunter (Stage 2G)
+sensors/uk_marconi_ai_mk24_stage_3g;AI.24 Foxhunter (Stage 3G)
+sensors/uk_captor_ecrs_1_pirate;"ECRS Mk.1
+IRST: PIRATE"
+sensors/uk_captor_ecrs_2_pirate;"ECRS Mk.2
+IRST: PIRATE"
+;
+sensors/jp_awg_11;J/AWG-11
+sensors/jp_awg_12;J/AWG-12
+sensors/jp_j_apg_1;J/APG-1
+sensors/jp_j_apg_2;J/APG-2
+;
+sensors/cn_type_208a;SL-5A
+sensors/cn_jl_7a;JL-7A
+sensors/cn_jl_10a;JL-10A
+sensors/cn_jl_10ag;JL-10AG
+sensors/cn_type_1473;KLJ-3
+sensors/cn_type_1492;KLJ-1
+sensors/cn_type_1493_pd;"1493
+IRST: EORD-31"
+sensors/cn_klj_10a;"KLJ-10A
+IRST: EORD-31"
+;
+sensors/us_r21g_m1;R21G
+;
+sensors/fr_aida_2;Aida II
+sensors/fr_cyrano_iv;Cyrano IV
+sensors/fr_antilope_5;Antilope 5
+sensors/fr_antilope_5_hmd;Antilope 5
+sensors/fr_thomson-csf_rdi;RDI
+sensors/fr_thomson-csf_rdm;RDM
+sensors/fr_thales_rdy;RDY-2
+sensors/fr_thales_rbe2;"RBE2-AA
+IRST: OSF"
+;
+sensors/sw_ps-011a_71h_ir;"PS-01/A
+IRST: A 71H"
+sensors/sw_ps-03;PS-03/A
+sensors/sw_ps-37;PS-37/A
+sensors/sw_ps-37;PS-37/A
+sensors/sw_ps-42_track;PS-42/A
+sensors/sw_ps-42_search;PS-42/A
+sensors/sw_ps-46a;PS-46/A
+sensors/sw_es_05;ES-05A Raven
+;
+sensors/il_el_m_2001b;EL/M-2001B
+sensors/il_el_m_2052;EL/M-2052
+;
+;
+;
+<Ground Based Radars>;
+;
+sensors/us_an_avs-2;AN/AVS-2
+sensors/us_an_mpq_64;AN/MPQ-64
+;
+sensors/de_gepard_sr;MPDR-12
+sensors/de_roland_sr;MPDR-16
+sensors/de_roland_fr;Domino 30
+sensors/de_gepard_fr;SAZ pulse doppler monopulse
+sensors/de_hensoldt_trml_4b;TRML-4D
+;
+sensors/su_1rl33;1RL33
+sensors/su_1rl34;1RL34
+sensors/su_1rl144_search;1RL144
+sensors/su_1rl144_track;1RL144
+sensors/su_1rs1;1RS1
+sensors/su_1rs2;1RS2
+sensors/su_1rs1-4;1RS1-4
+sensors/su_1rs2-3;1RS2-3
+sensors/su_khrizantema;1L32-1
+sensors/su_9s86;9S86
+sensors/su_9s18m3;9S18M3
+sensors/su_viking;Viking
+;
+sensors/uk_marconi_s_400;S-400
+;
+sensors/jp_type_81_search;Type 81 TA
+sensors/jp_type_03_search;Type 03 TA
+;
+sensors/su_wa316ld;149
+sensors/cn_pgz_625_search;PGZ625 TA
+sensors/cn_pgz_625_track;PGZ625 TT
+sensors/cn_hq_11_search;HQ11 TA
+;
+sensors/fr_arabel;Arabel
+;
+sensors/sw_triad_search;TRS 2620 H
+sensors/sw_giraffe_1x;Giraffe 1X
+sensors/sw_giraffe_amb;Giraffe AMB
+;
+sensors/il_spyder_search;exMHR
+;
+;
+;
+<Naval Radars>;
+;
+sensors/us_sc_radar;SC
+sensors/us_sg_radar;SG
+sensors/us_sg6_radar;SG-6
+sensors/us_sk;SK
+sensors/us_sk2_radar;SK-2
+sensors/us_sp_radar;SP
+sensors/us_mk3_radar;Mk.3
+sensors/us_mk8_radar;Mk.8
+sensors/us_mk12_radar;Mk.12
+sensors/us_mk19_radar;Mk.19
+sensors/us_mk25_radar;Mk.25
+sensors/us_mk34_radar;Mk.34
+sensors/us_an_sps_4;AN-SPS-4
+sensors/us_an_sps_6;AN-SPS-6
+sensors/us_an_sps_8a;AN-SPS-8A
+sensors/us_an_sps_10;AN-SPS-10
+sensors/us_an_sps_12;AN-SPS-12
+sensors/AN-SPS-12;AN-SPS-12
+sensors/us_an_spg_48;AN-SPG-48
+sensors/us_an_alr_49;AN/ALR-49
+sensors/AN-SPG-51;AN-SPG-51
+sensors/AN-SC-2;AN-SC-2
+sensors/us_fc_radar;FC
+sensors/us_rascar_3400c;RASCAR 3400c
+;
+;
+sensors/de_sgr_103_02;SGR-103/02
+sensors/de_sgr_108;SGR-108
+sensors/de_wm_27_search;WM-27
+sensors/de_wm_27_track;WM-27
+sensors/de_fumo_21;FuMo-21
+;
+sensors/su_4r_90_yatagan;4R-90 Yatagan
+sensors/su_mr_102_baklan;MR-102 Baklan
+sensors/su_mr_103_bars;MR-103 Baklan
+sensors/su_mr_104_rys;MR-104 Rys
+sensors/su_mr_105;MR-105 Turel
+sensors/su_mr_123_176;MR 123/176
+sensors/su_mr_220_reyd;MR-220 Reyd
+sensors/su_mr_302_rubka;MR-302 Rubka
+sensors/su_mr_352_pozitiv;MR-352 Pozitiv
+sensors/su_yakor_m;Yakor-M
+sensors/su_redan;Redan
+sensors/su_redan_2;Redan-2
+sensors/su_vympel_2;Vympel-2
+sensors/su_guys_1m;Giuys-1M
+sensors/su_guys_1b;Giuys-1B
+sensors/su_guys_2;Giuys-2
+sensors/su_p_10_volga_a;P-10 Volga-A
+sensors/su_mr_510_kil_u;MR-510 Kil-U
+;
+sensors/uk_type_960;Type 960
+sensors/uk_type_992q;Type 960q
+sensors/uk_type_275;Type 275
+sensors/uk_type_293;Type 293
+sensors/uk_type_293q;Type 293q
+sensors/uk_type_262;Type 262
+sensors/uk_type_278;Type 278
+sensors/uk_type_286;Type 286
+sensors/uk_type_1006;Type 1006
+;
+sensors/jp_ops_1_radar;OPS-1
+sensors/jp_ops_2_radar;OPS-2
+sensors/jp_ops_14_radar;OPS-14
+sensors/jp_ops_16_radar;OPS-16
+sensors/jp_type_21;Type-21
+sensors/jp_type_22;Type-22
+;
+sensors/it_3st_7_250;3ST-7/250
+sensors/it_ec3_ter_gufo_radar;EC3/ter Gufo
+sensors/it_mln_1a;MLN 1A
+sensors/it_rtn_10x;RTN 10X
+sensors/it_rtn_150;RTN 150
+sensors/it_spq_701;SPQ-701
+;
+sensors/fr_me140_mr126;ME-140/MR-126 radar
+;
+;
+;
+<RWR>;
+;
+sensors/us_an_apr_25;AN/APR-25
+sensors/us_an_apr_27;AN/APR-27
+sensors/us_an_apr_32;AN/APR-32
+sensors/us_an_apr_36;AN/APR-36
+sensors/us_an_apr_39;AN/APR-39
+sensors/us_an_apr_39a_v1_apr_48;AN/APR-39A(V)1
+sensors/us_an_alr_45v;AN/ALR-45(V)
+sensors/us_an_alr_46_v3_f_5th;AN/ALR-46(V)3
+sensors/us_an_alr_56m;AN/ALR-56M
+sensors/us_an_alr_67;AN/ALR-67(V)2
+;
+sensors/su_spo-2;SPO-2
+sensors/su_spo-10;SPO-10
+sensors/su_spo-15;SPO-15
+sensors/su_spo-15lm;SPO-15LM
+sensors/su_spo-150;L-150
+sensors/su_spo-150-14;L-150-14
+sensors/su_spo-150-30;L-150-30
+sensors/su_spo-150-30m;L-150-30M
+sensors/su_spo-150-30m1;L-150-30M1
+sensors/su_spo-150-30sm;L-150-30SM
+;
+sensors/uk_ari_18223;ARI 18223
+sensors/uk_ari_18228;ARI 18228
+sensors/uk_ari_23333;ARI 23333/1
+sensors/uk_ari_23284;ARI 23284
+;
+sensors/cn_type_930;930
+sensors/cn_type_930_4;930-4
+sensors/cn_krkz2200;K/RKZ2200
+sensors/cn_helicopter_z_rwr;YH-96
+sensors/cn_helicopter_z10me_rwr;YH-96ME
+;
+sensors/it_ralm-101;RALM-101
+;
+sensors/fr_serval_rwr;SERVAL
+;
+sensors/sw_app_f9_5;APP F9/5
+;
+sensors/il_elisra_sps_200;SPS-200
+sensors/il_elisra_sps_3000;SPS-3000
+;
+;
+;
+<LWS>;
+;
+sensors/us_an_avr-2;AN/AVR-2
+sensors/su_l-140;L-140
+sensors/cn_helicopter_z_lws;LWS
+sensors/su_mig_35_lws;SOLO
+;
+;
+;
+<MAW>;
+;
+sensors/il_paws_2;PAWS-2
+sensors/su_l_370_2;L-370-2
+sensors/cn_helicopter_z_mlws;MLWS
+sensors/su_mig_35_mlws;S-OAR
+;
+;
+;
+<Misc>;
+;
+sensors/tv_tracker;Auto tracker
+sensors/tv_tracker_tgp;Auto tracker
+sensors/tv_tracker_tgp_mercury;Mercury low-light TV pod
+sensors/ir_tracker;Auto tracker
+sensors/ir_tracker_tgp;Auto tracker
+;
+;
+;
+<DIRCM>;
+;
+counterMeasures/an_alq_144;AN/ALQ-144
+counterMeasures/l_166;L-166
+counterMeasures/l_166_c1;L-166C1
+counterMeasures/l_370;L-370-5
+counterMeasures/l_370v28_5l;L-370V28-5L
+counterMeasures/lsz_8vn;LSZ-8VN
+counterMeasures/cn_z_10me;DIRCM
+;
+;
+;
+<RWR Text>;
+;
+RFL;RAF
+;
+;
+;
+<APS>;
+;
+counterMeasures/an_vlq_8a;AN/VLQ-6
+;
+aps/muss;MUSS
+counterMeasures/muss;MUSS
+;
+aps/arena_e;Arena-E
+aps/arena_m;Arena-M
+counterMeasures/shtora1;Shtora-1
+;
+counterMeasures/varta;Varta
+;
+aps/gl_6;GL6
+counterMeasures/jd_3;JD3
+;
+counterMeasures/eirel;EIREL
+;
+aps/iron_fist;Iron Fist
+aps/iron_fist_ld;Iron Fist Light Decoupled
+aps/trophy_hv;Trophy HV
+aps/raam_segol;Ra’am Segol
+;
+;
+;
+<Unsorted>;
+;
+sensors/us_an_aps_4;A.S.V. Mk.IX
+sensors/us_md_1a;MD-1A
+sensors/su_spo-150_esm;ESM L-150

@@ -1,0 +1,107 @@
+﻿<Code>;<Translation>
+;
+fokker_d21_serie3_finland_shop;FRm sarja I
+fokker_d21_serie3_finland_0;"<color=#7b9fb5>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
+FRm sarja I “Ukko-Mokkeri”"
+fokker_d21_serie3_finland_1;FRm sarja I
+fokker_d21_serie3_finland_2;FRm
+b_239_finland_shop;BW
+b_239_finland_0;"<color=#7b9fb5>Brewster Aeronautical Corporation</color>
+BW “Ryssteri”"
+b_239_finland_1;BW
+b_239_finland_2;BW
+hurricane_mk1_late_finland_shop;HC
+hurricane_mk1_late_finland_0;"<color=#7b9fb5>Hawker Aircraft Ltd.</color>
+HC “Hurricane”"
+hurricane_mk1_late_finland_1;HC
+hurricane_mk1_late_finland_2;HC
+bf-109g-2_finland_shop;MT (G-2)
+bf-109g-2_finland_0;"<color=#7b9fb5>Messerschmitt AG</color>
+MT (G-2) “Mersu”"
+bf-109g-2_finland_1;MT (G-2)
+bf-109g-2_finland_2;MT
+bf-109g-6_erla_finland_shop;MT (G-6)
+bf-109g-6_erla_finland_0;"<color=#7b9fb5>Messerschmitt AG</color>
+MT (G-6) “Mersu”"
+bf-109g-6_erla_finland_1;MT (G-6)
+bf-109g-6_erla_finland_2;MT
+vampire_fb52_finland_shop;VA
+vampire_fb52_finland_0;"<color=#7b9fb5>de Havilland Aircraft Company Ltd.</color>
+VA “Vamppi”"
+vampire_fb52_finland_1;VA
+vampire_fb52_finland_2;VA
+mig_21_bis_finland_shop;MGB
+mig_21_bis_finland_0;"<color=#7b9fb5>Mikoyan-Gurevich Design Bureau | OKB-155</color>
+MGB “Konelan putki”
+<color=#c0c0c0>Late Modification</color>"
+mig_21_bis_finland_1;MGB
+mig_21_bis_finland_2;MGB
+fa_18c_finland_shop;HN
+fa_18c_finland_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+HN “Hornet”"
+fa_18c_finland_1;HN
+fa_18c_finland_2;HN
+fa_18c_mlu_2_finland_shop;HN (MLU2)
+fa_18c_mlu_2_finland_0;"<color=#7b9fb5>McDonnell Douglas Corporation</color>
+HN “Hornet”
+<color=#c0c0c0>Mid-Life Upgrade 2</color>"
+fa_18c_mlu_2_finland_1;HN (MLU2)
+fa_18c_mlu_2_finland_2;HN
+;
+ju-88a-4_finland_shop;JK (1943)
+ju-88a-4_finland_0;"<color=#7b9fb5>Junkers Flugzeug- Und Motorenwerke AG</color>
+JK “Iso Stuka”
+<color=#c0c0c0>(1943)</color>"
+ju-88a-4_finland_1;JK
+ju-88a-4_finland_2;JK
+;
+;
+arado-196a-5_shop;AR
+arado-196a-5_0;"<color=#7b9fb5>Arado Flugzeugwerke</color>
+AR"
+arado-196a-5_1;AR
+arado-196a-5_2;AR
+fokker_d21_mod20_shop;FR-76 (1937)
+fokker_d21_mod20_0;"<color=#7b9fb5>N.V. Koninklijke Nederlandse Vliegtuigenfabriek Fokker</color>
+FR-76 “Ukko-Mokkeri”
+<color=#c0c0c0>(1937)</color>"
+fokker_d21_mod20_1;FR-76
+fokker_d21_mod20_2;FR-76
+morko_morane_shop;MSv
+morko_morane_0;"<color=#7b9fb5>Aéroplanes Morane-Saulnier</color>
+MSv “Mörkö-Morane”"
+morko_morane_1;MSv
+morko_morane_2;MSv
+vl_myrsky_2_late_shop;MY sarja II
+vl_myrsky_2_late_0;"<color=#7b9fb5>Valtion lentokonetehdas</color>
+MY sarja II"
+vl_myrsky_2_late_1;MY sarja II
+vl_myrsky_2_late_2;MY
+pyorremyrsky_shop;PM-1
+pyorremyrsky_0;"<color=#7b9fb5>Valtion lentokonetehdas</color>
+PM-1 “Puu-Mersu”"
+pyorremyrsky_1;PM-1
+pyorremyrsky_2;PM
+bf-109g-6_finland_shop;Hielm’s MT (G-6)
+bf-109g-6_finland_0;"<color=#7b9fb5>Messerschmitt AG</color>
+MT (G-6) ""Mersu""
+<color=#ffe66d>Börje Hielm</color>"
+bf-109g-6_finland_1;MT (G-6)
+bf-109g-6_finland_2;MT
+saab_j35xs_shop;DKS (1993)
+saab_j35xs_0;"<color=#7b9fb5>Saab AB</color>
+DKS “Silitysrauta”
+<color=#c0c0c0>(1993)</color>"
+saab_j35xs_1;DKS
+saab_j35xs_2;DKS
+;
+shop/group/bf_109g_sweden_group;MT (G)
+shop/group/vampire_fb_group;A 28/VA
+;
+;
+h-75a-2_finland_shop;▀CUw (A-2)
+h-75a-2_finland_0;"<color=#7b9fb5>Curtiss-Wright Corporation</color>
+▀CUw (A-2)
+<color=#c0c0c0>Early Modification</color>"
+h-75a-2_finland_1;▀CUw
+h-75a-2_finland_2;▀CU
