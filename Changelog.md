@@ -12,7 +12,7 @@
 
 - ### Weaponry Changes:
 
-	-
+	- #### Have begun the process of overhauling all of the ground and aircraft weapons in the game. 
 
 
 - ### Modification Changes:
@@ -23,3 +23,8 @@
 - ### Other Changes:
 
 	- #### "?" → "U" (RWR IDs)
+
+
+- ### Fixes:
+
+	- #### Fixed an issue where J16s RWR ID was appearing in team list instead of its name.
