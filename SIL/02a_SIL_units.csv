@@ -7795,7 +7795,7 @@ scimitar_f1_0;"<color=#7b9fb5>Supermarine Aviation Works Ltd.</color>
 Scimitar F. Mk. 1";
 scimitar_f1_1;Scimitar F. 1;
 scimitar_f1_2;Scimitar;
-harrier_frs1_early_shop;Sea Harrier F.R.S.1;
+harrier_frs1_early_shop;Sea Harrier F.R.S. 1;
 harrier_frs1_early_0;"<color=#7b9fb5>British Aerospace plc.</color>
 Sea Harrier F.R.S. Mk. 1";
 harrier_frs1_early_1;Sea Harrier F.R.S. 1;
@@ -10734,11 +10734,11 @@ jh_7a_prototype_0;"<color=#7b9fb5>AVIC Xi’an Aircraft Industrial Corporation</
 JH7A Fēi Bào (Prototype No.1)";
 jh_7a_prototype_1;JH7A;
 jh_7a_prototype_2;JH7;
-su_30mkk_shop;␗Sū 30MKK;
+su_30mkk_shop;␗Su-30MKK;
 su_30mkk_0;"<color=#7b9fb5>Sukhoi Aviation Military Industrial Combine</color>
-␗Sū 30MKK";
-su_30mkk_1;␗Sū 30MK;
-su_30mkk_2;␗Sū 30;
+␗Su-30MKK";
+su_30mkk_1;␗Su-30MK;
+su_30mkk_2;␗Su-30;
 ;;
 ;;
 ;;
