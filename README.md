@@ -1,1 +1,1 @@
-# Lang-Mod
+# Simply's Improved Lang Mod
