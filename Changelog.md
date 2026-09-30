@@ -23,21 +23,16 @@ This document contains all the changes within the mod from version 2.1.0.0 onwar
 	- NATO Reporting Name for MiG-21 2000 added as "Fishbed 2000".
 
 
-- ### Weaponry Changes:
-
-	- Have begun the process of overhauling all of the ground and aircraft weapons in the game. 
-
-
 - ### Modification Changes:
 
 	- Kh-29 /K-59 → Kh-29 / 59
 
 
-- ### Other Changes:
+- ### Sensor Changes:
 
-	- "?" → "U" (RWR IDs)
+	- "?" RWR ID changed to "U".
 
 
 - ### Fixes:
 
-	- Fixed an issue where J16s RWR ID was appearing in team list instead of its name.
+	- Fixed an issue where J16s RWR ID was appearing in team list instead of its name
