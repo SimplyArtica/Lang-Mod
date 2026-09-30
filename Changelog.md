@@ -1,11 +1,11 @@
 # Changelog
 
-### The way that versions are tracked has been changed. Thus the change from "Version 15" down to "Version 2".
+This document contains all the changes within the mod from version 2.1.0.0 onwards. 
 
 
 ## **2.1.0.0**
 
-- #### Vehicle Changes:
+- ### Vehicle Changes:
 
 	- Mosquito T.R. 33 → Sea Mosquito T.R. 33
 	- Corrected formatting of Sea Harrier F.R.S. 1
