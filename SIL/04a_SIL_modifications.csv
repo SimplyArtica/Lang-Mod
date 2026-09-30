@@ -908,7 +908,7 @@ modification/mi_28nm_9M123;9M123
 modification/mi_28nm_9M123/desc;Allows the mounting of 9M123 Khrizantema beam riding air-to-ground missiles.
 modification/ka_9K121;9M127
 modification/ka_9K121/desc;Allows the mounting of 9M127 Vikhr beam riding air-to-ground missiles.
-modification/su_x29td_x59m;Kh-29 /K-59
+modification/su_x29td_x59m;Kh-29/59
 modification/su_x29td_x59m/desc;Allows the mounting of the following types of Kh-29 and Kh-59 guided missiles: {unlockWeapons}
 modification/rs_vrvz_240;VRVZ-240
 modification/rs_vrvz_240/desc;Allows the mounting of VRVZ-240 TV guided air-to-ground missiles.
